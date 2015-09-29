@@ -10,6 +10,8 @@ of personal preference. Of course, not all solutions are optimal and your sugges
 ### Contents
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)|[Java](./algorithms/two-sum/)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./algorithms/two-sum/)|Medium|
 |2|[Add Two numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./algorithms/add-two-numbers/)|Medium|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|Medium|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/rotate-array/)|Easy|
 
