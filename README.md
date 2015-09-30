@@ -15,6 +15,8 @@ of personal preference. Of course, not all solutions are optimal and your sugges
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./algorithms/reverse-integer/)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](./algorithms/string-to-integer/)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./algorithms/palindrome-number/)|Easy|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Java](./algorithms/integer-to-roman/)|Medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./algorithms/roman-to-integer/)|Easy|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/rotate-array/)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./algorithms/reverse-bits/)|Easy|
