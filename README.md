@@ -4,8 +4,9 @@ LeetCode Solutions
 ### Introduction
 
 LeetCode is a very good website to sharpen you programming/problem-solving skills. The idea to setup this repo
-is inspired by [Haoel's repo](https://github.com/haoel/leetcode). However, Java is preferred here simply because
-of personal preference. Of course, not all solutions are optimal and your suggestions and contributions are welcomed.
+is inspired by [Haoel's repo](https://github.com/haoel/leetcode).
+Java solutions are offered here for references and comparison. And also it is more like a personal practice for myself.
+Of course, not all solutions are optimal and your suggestions and contributions are welcomed.
 
 ### Contents
 | # | Title | Solution | Difficulty |
@@ -23,6 +24,13 @@ of personal preference. Of course, not all solutions are optimal and your sugges
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./algorithms/remove-nth-node-from-end-of-list/)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./algorithms/valid-parentheses/)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./algorithms/merge-two-sorted-lists/)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./algorithms/remove-duplicates-from-sorted-array/)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./algorithms/remove-element/)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./algorithms/implement-strstr/)|Easy|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|Medium|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./algorithms/plus-one/)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./algorithms/add-binary/)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./algorithms/climbing-stairs/)|Easy|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./algorithms/remove-duplicates-from-sorted-list/)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/rotate-array/)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./algorithms/reverse-bits/)|Easy|
