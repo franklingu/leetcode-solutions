@@ -21,6 +21,8 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./algorithms/roman-to-integer/)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./algorithms/longest-common-prefix/)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./algorithms/3sum/)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](./algorithms/3sum-closest/)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](./algorithms/letter-combinations-of-a-phone-number/)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./algorithms/remove-nth-node-from-end-of-list/)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./algorithms/valid-parentheses/)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./algorithms/merge-two-sorted-lists/)|Easy|
