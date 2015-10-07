@@ -42,7 +42,10 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/search-a-2d-matrix/)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](./algorithms/remove-duplicates-from-sorted-array-ii/)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./algorithms/remove-duplicates-from-sorted-list/)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./algorithms/merge-sorted-array/)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/rotate-array/)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./algorithms/reverse-bits/)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./algorithms/remove-linked-list-elements/)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./algorithms/reverse-linked-list/)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./algorithms/peeking-iterator/)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](./algorithms/find-the-duplicate-number/)|Hard|
