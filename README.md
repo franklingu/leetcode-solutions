@@ -45,6 +45,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./algorithms/merge-sorted-array/)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/rotate-array/)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./algorithms/reverse-bits/)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./algorithms/happy-number/)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./algorithms/remove-linked-list-elements/)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./algorithms/reverse-linked-list/)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./algorithms/peeking-iterator/)|Medium|
