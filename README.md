@@ -50,6 +50,6 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./algorithms/reverse-linked-list/)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./algorithms/add-digits/)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./algorithms/ugly-number/)|Easy|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./algorithms/mpve-zeroes/)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./algorithms/move-zeroes/)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./algorithms/peeking-iterator/)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](./algorithms/find-the-duplicate-number/)|Hard|
