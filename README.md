@@ -36,6 +36,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./algorithms/plus-one/)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./algorithms/add-binary/)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](./algorithms/sqrtx/)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./algorithms/climbing-stairs/)|Easy|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/edit-distance/)|Hard|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](./algorithms/set-matrix-zeroes/)|Medium|
