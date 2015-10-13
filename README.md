@@ -43,8 +43,11 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](./algorithms/remove-duplicates-from-sorted-array-ii/)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./algorithms/remove-duplicates-from-sorted-list/)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./algorithms/merge-sorted-array/)|Easy|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/rotate-array/)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/merge-sorted-array/)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./algorithms/linked-list-cycle/)|Medium|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/single-number/)|Medium|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./algorithms/reverse-bits/)|Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./algorithms/number-of-1-bits/)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./algorithms/happy-number/)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./algorithms/remove-linked-list-elements/)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./algorithms/reverse-linked-list/)|Easy|
