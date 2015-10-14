@@ -47,6 +47,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/merge-sorted-array/)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./algorithms/linked-list-cycle/)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./algorithms/linked-list-cycle-ii/)|Medium|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./databases/combine-two-tables/)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/single-number/)|Medium|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./algorithms/reverse-bits/)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./algorithms/number-of-1-bits/)|Easy|
@@ -55,7 +56,6 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./algorithms/reverse-linked-list/)|Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](./algorithms/number-of-digit-one/)|Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./algorithms/add-digits/)|Easy|
-|262|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./databases/combine-two-tables/)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./algorithms/ugly-number/)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./algorithms/move-zeroes/)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./algorithms/peeking-iterator/)|Medium|
