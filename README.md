@@ -37,6 +37,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./algorithms/plus-one/)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./algorithms/add-binary/)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](./algorithms/sqrtx/)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./algorithms/climbing-stairs/)|Easy|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/edit-distance/)|Hard|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](./algorithms/set-matrix-zeroes/)|Medium|
@@ -57,6 +58,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./algorithms/remove-linked-list-elements/)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./algorithms/reverse-linked-list/)|Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](./algorithms/number-of-digit-one/)|Medium|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./algorithms/delete-node-in-a-linked-list/)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./algorithms/add-digits/)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./algorithms/ugly-number/)|Easy|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[Java](./algorithms/h-index/)|Medium|
