@@ -26,15 +26,14 @@ public:
         if (node == NULL) {
             return;
         }
+        ListNode* next = node -> next;
         
-        ListNode* prev = node;
-        
-        while (node -> next != NULL) {
-            node -> val = node -> next -> val;
-            prev = node;
-            node = node -> next;
+        if (next != NULL) {
+            node->val = next->val;
+            node->next = next->next;
+            
+            delete next;
         }
-        prev -> next = NULL;
-        delete node;
+        
     }
 };
