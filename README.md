@@ -63,6 +63,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./algorithms/ugly-number/)|Easy|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[Java](./algorithms/h-index/)|Medium|
 |275|[H-index II](https://leetcode.com/problems/h-index-ii/)|[Java](./algorithms/h-index-2/)|Medium|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Java](./algorithms/perfect-squares/)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./algorithms/move-zeroes/)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./algorithms/peeking-iterator/)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](./algorithms/find-the-duplicate-number/)|Hard|
