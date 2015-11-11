@@ -68,3 +68,6 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./algorithms/peeking-iterator/)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](./algorithms/find-the-duplicate-number/)|Hard|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[C++](./algorithms/nim-game/)|Easy|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Java](./algorithms/bulls-and-cows/)|Easy|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./algorithms/longest-increasing-subsequence/)|Medium|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./algorithms/range-sum-query-immutable/)|Easy|
