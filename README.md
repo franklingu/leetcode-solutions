@@ -56,6 +56,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./algorithms/number-of-1-bits/)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./algorithms/happy-number/)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./algorithms/remove-linked-list-elements/)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./algorithms/isomorphic-strings/)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./algorithms/reverse-linked-list/)|Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](./algorithms/number-of-digit-one/)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./algorithms/delete-node-in-a-linked-list/)|Easy|
@@ -67,6 +68,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./algorithms/move-zeroes/)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./algorithms/peeking-iterator/)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](./algorithms/find-the-duplicate-number/)|Hard|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Java](./algorithms/word-pattern/)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[C++](./algorithms/nim-game/)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Java](./algorithms/bulls-and-cows/)|Easy|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./algorithms/longest-increasing-subsequence/)|Medium|
