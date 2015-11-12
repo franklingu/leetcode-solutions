@@ -65,6 +65,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./algorithms/add-digits/)|Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Java](./algorithms/single-number-iii/)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./algorithms/ugly-number/)|Easy|
+|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Java](./algorithms/integer-to-english-words/)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[Java](./algorithms/h-index/)|Medium|
 |275|[H-index II](https://leetcode.com/problems/h-index-ii/)|[Java](./algorithms/h-index-2/)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Java](./algorithms/perfect-squares/)|Medium|
@@ -73,6 +74,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](./algorithms/find-the-duplicate-number/)|Hard|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Java](./algorithms/word-pattern/)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[C++](./algorithms/nim-game/)|Easy|
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Java](./algorithms/find-median-from-data-stream/)|Hard|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Java](./algorithms/bulls-and-cows/)|Easy|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./algorithms/longest-increasing-subsequence/)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./algorithms/range-sum-query-immutable/)|Easy|
