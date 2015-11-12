@@ -46,12 +46,14 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./algorithms/remove-duplicates-from-sorted-list-ii/)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./algorithms/remove-duplicates-from-sorted-list/)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./algorithms/merge-sorted-array/)|Easy|
-|136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/merge-sorted-array/)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/single-number/)|Medium|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Java](./algorithms/single-number-ii/)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./algorithms/linked-list-cycle/)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./algorithms/linked-list-cycle-ii/)|Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./databases/combine-two-tables/)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Java](./databases/second-highest-salary/)|Easy|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/single-number/)|Medium|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./algorithms/repeated-dna-sequences/)|Medium|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/rotate-array/)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./algorithms/reverse-bits/)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./algorithms/number-of-1-bits/)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./algorithms/happy-number/)|Easy|
@@ -61,6 +63,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](./algorithms/number-of-digit-one/)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./algorithms/delete-node-in-a-linked-list/)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./algorithms/add-digits/)|Easy|
+|260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Java](./algorithms/single-number-iii/)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./algorithms/ugly-number/)|Easy|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[Java](./algorithms/h-index/)|Medium|
 |275|[H-index II](https://leetcode.com/problems/h-index-ii/)|[Java](./algorithms/h-index-2/)|Medium|
