@@ -65,6 +65,8 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./algorithms/add-digits/)|Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Java](./algorithms/single-number-iii/)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./algorithms/ugly-number/)|Easy|
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Java](./algorithms/ugly-number-ii/)|Medium|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./algorithms/missing-number/)|Medium|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Java](./algorithms/integer-to-english-words/)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[Java](./algorithms/h-index/)|Medium|
 |275|[H-index II](https://leetcode.com/problems/h-index-ii/)|[Java](./algorithms/h-index-2/)|Medium|
@@ -78,3 +80,4 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Java](./algorithms/bulls-and-cows/)|Easy|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./algorithms/longest-increasing-subsequence/)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./algorithms/range-sum-query-immutable/)|Easy|
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](./algorithms/range-sum-query-2d-immutable/)|Medium|
