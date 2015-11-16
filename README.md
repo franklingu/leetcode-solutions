@@ -48,6 +48,8 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./algorithms/merge-sorted-array/)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/single-number/)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Java](./algorithms/single-number-ii/)|Medium|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](./algorithms/copy-list-with-random-pointer/)|Hard|
+|139|[Word Break](https://leetcode.com/problems/word-break/)|[Java](./algorithms/word-break/)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./algorithms/linked-list-cycle/)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./algorithms/linked-list-cycle-ii/)|Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./databases/combine-two-tables/)|Easy|
