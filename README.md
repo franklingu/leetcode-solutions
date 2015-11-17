@@ -33,7 +33,9 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./algorithms/remove-element/)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./algorithms/implement-strstr/)|Easy|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](./algorithms/search-in-rotated-sorted-array/)|Hard|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./algorithms/multiply-strings/)|Medium|
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n/)|[Java](./algorithms/pow(x,n)/)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./algorithms/maximum-subarray/)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./algorithms/plus-one/)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./algorithms/add-binary/)|Easy|
