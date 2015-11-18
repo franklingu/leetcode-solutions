@@ -33,7 +33,9 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./algorithms/remove-element/)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./algorithms/implement-strstr/)|Easy|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](./algorithms/search-in-rotated-sorted-array/)|Hard|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./algorithms/combination-sum/)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./algorithms/multiply-strings/)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](./algorithms/permutations/)|Medium|
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n/)|[Java](./algorithms/pow(x,n)/)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./algorithms/maximum-subarray/)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|Medium|
@@ -44,6 +46,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/edit-distance/)|Hard|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](./algorithms/set-matrix-zeroes/)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/search-a-2d-matrix/)|Medium|
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[Java](./algorithms/combinations/)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](./algorithms/remove-duplicates-from-sorted-array-ii/)|Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./algorithms/remove-duplicates-from-sorted-list-ii/)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./algorithms/remove-duplicates-from-sorted-list/)|Easy|
