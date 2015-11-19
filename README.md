@@ -3,10 +3,7 @@ LeetCode Solutions
 
 ### Introduction
 
-LeetCode is a very good website to sharpen you programming/problem-solving skills. The idea to setup this repo
-is inspired by [Haoel's repo](https://github.com/haoel/leetcode).
-Java solutions are offered here for references and comparison. And also it is more like a personal practice for myself.
-Of course, not all solutions are optimal and your suggestions and contributions are welcomed.
+LeetCode is a very good website to sharpen your programming/problem-solving skills. Of course, not all solutions here are optimal and your suggestions and contributions are welcomed.
 
 ### Contents
 | # | Title | Solution | Difficulty |
@@ -74,6 +71,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./algorithms/reverse-linked-list/)|Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](./algorithms/number-of-digit-one/)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./algorithms/delete-node-in-a-linked-list/)|Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./algorithms/binary-tree-paths/)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./algorithms/add-digits/)|Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Java](./algorithms/single-number-iii/)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./algorithms/ugly-number/)|Easy|
@@ -93,3 +91,24 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./algorithms/longest-increasing-subsequence/)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./algorithms/range-sum-query-immutable/)|Easy|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](./algorithms/range-sum-query-2d-immutable/)|Medium|
+
+### Contribution Guide
+You can choose any problem in LeetCode and bring your solution here. However, notice the folder structure of current repo
+
+```
+--algorithms         # contains solutions for algorithmic problems in LeetCode
+  --3sum             # named after the question itself
+    --Solution.java  # actual code for the solution. the problem description and maybe even explanation
+                     #   for the solution are in the form of comments
+--shell              # solutions for shell related problems
+--databases          # solutions for database related problems
+```
+
+1. Fork the repository.
+2. Solve the problem in LeetCode.
+3. Create the solution file in the correct directory and add the link to README table.
+4. Create pull request.
+5. After review and discussions, the patch will be merged!
+
+### Question and Help
+You are welcome to use Issue Trackers in the repository to bring up any questions!
