@@ -38,6 +38,7 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](./algorithms/permutations/)|Medium|
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n/)|[Java](./algorithms/pow(x,n)/)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./algorithms/maximum-subarray/)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./algorithms/spiral-matrix/)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./algorithms/plus-one/)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./algorithms/add-binary/)|Easy|
@@ -63,6 +64,10 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/rotate-array/)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./algorithms/reverse-bits/)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./algorithms/number-of-1-bits/)|Easy|
+|192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[Shell](./algorithms/word-frequency/)|Medium|
+|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[Shell](./algorithms/valid-phone-numbers/)|Easy|
+|194|[Transpose File](https://leetcode.com/problems/transpose-file/)|[Shell](./algorithms/transpose-file/)|Medium|
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[Shell](./algorithms/tenth-line/)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./algorithms/happy-number/)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./algorithms/remove-linked-list-elements/)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./algorithms/isomorphic-strings/)|Easy|
