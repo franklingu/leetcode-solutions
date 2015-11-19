@@ -58,16 +58,16 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Java](./algorithms/word-break/)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./algorithms/linked-list-cycle/)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./algorithms/linked-list-cycle-ii/)|Medium|
-|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MySQL](./databases/combine-two-tables/)|Easy|
-|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Java](./databases/second-highest-salary/)|Easy|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](./databases/combine-two-tables/)|Easy|
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](./databases/second-highest-salary/)|Easy|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./algorithms/repeated-dna-sequences/)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/rotate-array/)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./algorithms/reverse-bits/)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./algorithms/number-of-1-bits/)|Easy|
-|192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[Shell](./algorithms/word-frequency/)|Medium|
-|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[Shell](./algorithms/valid-phone-numbers/)|Easy|
-|194|[Transpose File](https://leetcode.com/problems/transpose-file/)|[Shell](./algorithms/transpose-file/)|Medium|
-|195|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[Shell](./algorithms/tenth-line/)|Easy|
+|192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[Shell](./shell/word-frequency/)|Medium|
+|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[Shell](./shell/valid-phone-numbers/)|Easy|
+|194|[Transpose File](https://leetcode.com/problems/transpose-file/)|[Shell](./shell/transpose-file/)|Medium|
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[Shell](./shell/tenth-line/)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./algorithms/happy-number/)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./algorithms/remove-linked-list-elements/)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./algorithms/isomorphic-strings/)|Easy|
