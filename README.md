@@ -67,3 +67,4 @@ Of course, not all solutions are optimal and your suggestions and contributions 
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./algorithms/peeking-iterator/)|Medium|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](./algorithms/find-the-duplicate-number/)|Hard|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[C++](./algorithms/nim-game/)|Easy|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C++](./algorithms/odd-even-linked-list/)|Easy|
