@@ -30,6 +30,8 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./algorithms/remove-element/)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./algorithms/implement-strstr/)|Easy|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](./algorithms/search-in-rotated-sorted-array/)|Hard|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/search-insert-position/)|Medium|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./algorithms/valid-sudoku/)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./algorithms/combination-sum/)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./algorithms/multiply-strings/)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](./algorithms/permutations/)|Medium|
@@ -56,6 +58,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Java](./algorithms/word-break/)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./algorithms/linked-list-cycle/)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./algorithms/linked-list-cycle-ii/)|Medium|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./algorithms/find-peak-element/)|Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](./databases/combine-two-tables/)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](./databases/second-highest-salary/)|Easy|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./algorithms/repeated-dna-sequences/)|Medium|
