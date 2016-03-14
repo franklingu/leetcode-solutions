@@ -36,6 +36,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n/)|[Java](./algorithms/pow(x,n)/)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./algorithms/maximum-subarray/)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./algorithms/spiral-matrix/)|Medium|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./algorithms/jump-game/)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./algorithms/plus-one/)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./algorithms/add-binary/)|Easy|
@@ -91,6 +92,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./algorithms/longest-increasing-subsequence/)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./algorithms/range-sum-query-immutable/)|Easy|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](./algorithms/range-sum-query-2d-immutable/)|Medium|
+|330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Java](./algorithms/patching-array/)|Medium|
 
 ### Contribution Guide
 You can choose any problem in LeetCode and bring your solution here. However, notice the folder structure of current repo
