@@ -32,6 +32,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](./algorithms/search-in-rotated-sorted-array/)|Hard|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/search-insert-position/)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./algorithms/valid-sudoku/)|Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./algorithms/count-and-say/)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./algorithms/combination-sum/)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./algorithms/multiply-strings/)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](./algorithms/permutations/)|Medium|
@@ -52,6 +53,8 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./algorithms/remove-duplicates-from-sorted-list-ii/)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./algorithms/remove-duplicates-from-sorted-list/)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./algorithms/merge-sorted-array/)|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./algorithms/same-tree/)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./algorithms/symmetric-tree/)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/single-number/)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Java](./algorithms/single-number-ii/)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](./algorithms/copy-list-with-random-pointer/)|Hard|
