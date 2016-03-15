@@ -60,6 +60,8 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](./algorithms/binary-tree-level-order-traversal-ii/)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](./algorithms/balanced-binary-tree/)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./algorithms/minimum-depth-of-binary-tree/)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](./algorithms/pascals-triangle/)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](./algorithms/pascals-triangle-ii/)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/single-number/)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Java](./algorithms/single-number-ii/)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](./algorithms/copy-list-with-random-pointer/)|Hard|
@@ -83,6 +85,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./algorithms/reverse-linked-list/)|Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](./algorithms/number-of-digit-one/)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./algorithms/delete-node-in-a-linked-list/)|Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./algorithms/valid-anagram/)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./algorithms/binary-tree-paths/)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./algorithms/add-digits/)|Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Java](./algorithms/single-number-iii/)|Medium|
