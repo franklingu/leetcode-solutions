@@ -60,8 +60,11 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](./algorithms/binary-tree-level-order-traversal-ii/)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](./algorithms/balanced-binary-tree/)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./algorithms/minimum-depth-of-binary-tree/)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Java](./algorithms/path-sum/)|Easy|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](./algorithms/path-sum-ii/)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](./algorithms/pascals-triangle/)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](./algorithms/pascals-triangle-ii/)|Easy|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./algorithms/sum-root-to-leaf-numbers/)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/single-number/)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Java](./algorithms/single-number-ii/)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](./algorithms/copy-list-with-random-pointer/)|Hard|
