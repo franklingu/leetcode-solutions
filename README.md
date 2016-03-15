@@ -56,7 +56,10 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./algorithms/same-tree/)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./algorithms/symmetric-tree/)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./algorithms/binary-tree-level-order-traversal/)|Easy|
+|104|[Maximum Depth of Binary Tree My Submissions Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./algorithms/maximum-depth-of-binary-tree/)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](./algorithms/binary-tree-level-order-traversal-ii/)|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](./algorithms/balanced-binary-tree/)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./algorithms/minimum-depth-of-binary-tree/)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/single-number/)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Java](./algorithms/single-number-ii/)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](./algorithms/copy-list-with-random-pointer/)|Hard|
