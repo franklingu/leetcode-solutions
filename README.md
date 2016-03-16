@@ -86,6 +86,8 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./algorithms/remove-linked-list-elements/)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./algorithms/isomorphic-strings/)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./algorithms/reverse-linked-list/)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](./algorithms/contains-duplicate/)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Java](./algorithms/contains-duplicate-ii/)|Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](./algorithms/number-of-digit-one/)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./algorithms/delete-node-in-a-linked-list/)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./algorithms/valid-anagram/)|Easy|
