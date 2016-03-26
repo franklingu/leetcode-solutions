@@ -65,6 +65,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](./algorithms/path-sum-ii/)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](./algorithms/pascals-triangle/)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](./algorithms/pascals-triangle-ii/)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./algorithms/valid-palindrome/)|Easy|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./algorithms/sum-root-to-leaf-numbers/)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/single-number/)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Java](./algorithms/single-number-ii/)|Medium|
@@ -91,6 +92,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](./algorithms/contains-duplicate/)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Java](./algorithms/contains-duplicate-ii/)|Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](./algorithms/number-of-digit-one/)|Medium|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./algorithms/palindrome-linked-list/)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./algorithms/delete-node-in-a-linked-list/)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./algorithms/valid-anagram/)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./algorithms/binary-tree-paths/)|Easy|
