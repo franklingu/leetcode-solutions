@@ -53,6 +53,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./algorithms/remove-duplicates-from-sorted-list-ii/)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./algorithms/remove-duplicates-from-sorted-list/)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./algorithms/merge-sorted-array/)|Easy|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](./algorithms/reverse-linked-list-ii/)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./algorithms/same-tree/)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./algorithms/symmetric-tree/)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./algorithms/binary-tree-level-order-traversal/)|Easy|
@@ -71,6 +72,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Java](./algorithms/word-break/)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./algorithms/linked-list-cycle/)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./algorithms/linked-list-cycle-ii/)|Medium|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./algorithms/intersection-of-two-linked-lists/)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./algorithms/find-peak-element/)|Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](./databases/combine-two-tables/)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](./databases/second-highest-salary/)|Easy|
