@@ -93,6 +93,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Java](./algorithms/contains-duplicate-ii/)|Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](./algorithms/number-of-digit-one/)|Medium|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./algorithms/palindrome-linked-list/)|Easy|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Java](./algorithms/lowest-common-ancestor-of-a-binary-search-tree/)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./algorithms/delete-node-in-a-linked-list/)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./algorithms/valid-anagram/)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./algorithms/binary-tree-paths/)|Easy|
@@ -116,6 +117,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./algorithms/range-sum-query-immutable/)|Easy|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](./algorithms/range-sum-query-2d-immutable/)|Medium|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Java](./algorithms/patching-array/)|Medium|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./algorithms/counting-bits/)|Medium|
 
 ### Contribution Guide
 You can choose any problem in LeetCode and bring your solution here. However, notice the folder structure of current repo
