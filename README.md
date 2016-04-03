@@ -40,6 +40,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./algorithms/maximum-subarray/)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./algorithms/spiral-matrix/)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./algorithms/jump-game/)|Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](./algorithms/length-of-last-word/)|Easy|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./algorithms/plus-one/)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./algorithms/add-binary/)|Easy|
@@ -73,8 +74,10 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Java](./algorithms/word-break/)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./algorithms/linked-list-cycle/)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./algorithms/linked-list-cycle-ii/)|Medium|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./algorithms/min-stack/)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./algorithms/intersection-of-two-linked-lists/)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./algorithms/find-peak-element/)|Medium|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./algorithms/majority-element/)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](./databases/combine-two-tables/)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](./databases/second-highest-salary/)|Easy|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./algorithms/repeated-dna-sequences/)|Medium|
