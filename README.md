@@ -95,6 +95,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./algorithms/reverse-linked-list/)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](./algorithms/contains-duplicate/)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Java](./algorithms/contains-duplicate-ii/)|Easy|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](./algorithms/summary-ranges/)|Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Java](./algorithms/majority-element-ii/)|Medium|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](./algorithms/number-of-digit-one/)|Medium|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./algorithms/palindrome-linked-list/)|Easy|
@@ -121,6 +122,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./algorithms/longest-increasing-subsequence/)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./algorithms/range-sum-query-immutable/)|Easy|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](./algorithms/range-sum-query-2d-immutable/)|Medium|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Java](./algorithms/odd-even-linked-list/)|Medium|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Java](./algorithms/patching-array/)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./algorithms/counting-bits/)|Medium|
 
