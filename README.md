@@ -44,7 +44,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./algorithms/plus-one/)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./algorithms/add-binary/)|Easy|
-|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++](./algorithms/sqrtx/)|Medium|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++,Python](./algorithms/sqrtx/)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./algorithms/climbing-stairs/)|Easy|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/edit-distance/)|Hard|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](./algorithms/set-matrix-zeroes/)|Medium|
@@ -60,12 +60,14 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./algorithms/binary-tree-level-order-traversal/)|Easy|
 |104|[Maximum Depth of Binary Tree My Submissions Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./algorithms/maximum-depth-of-binary-tree/)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](./algorithms/binary-tree-level-order-traversal-ii/)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](./algorithms/convert-sorted-array-to-binary-search-tree/)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](./algorithms/balanced-binary-tree/)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./algorithms/minimum-depth-of-binary-tree/)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Java](./algorithms/path-sum/)|Easy|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](./algorithms/path-sum-ii/)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](./algorithms/pascals-triangle/)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](./algorithms/pascals-triangle-ii/)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/best-time-to-buy-and-sell-stock/)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./algorithms/valid-palindrome/)|Easy|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./algorithms/sum-root-to-leaf-numbers/)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/single-number/)|Medium|
@@ -125,6 +127,13 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Java](./algorithms/odd-even-linked-list/)|Medium|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Java](./algorithms/patching-array/)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./algorithms/counting-bits/)|Medium|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./algorithms/valid-perfect-square/)|Easy|
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Java](./algorithms/sum-of-two-integers/)|Easy|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./algorithms/find-the-difference/)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Java](./algorithms/hamming-distance/)|Easy|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](./algorithms/next-greater-element-i/)|Easy|
+|500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Python](./algorithms/keyboard-row/)|Easy|
+|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./algorithms/next-greater-element-ii/)|Medium|
 
 ### Contribution Guide
 You can choose any problem in LeetCode and bring your solution here. However, notice the folder structure of current repo
