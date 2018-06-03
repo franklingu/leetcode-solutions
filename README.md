@@ -49,6 +49,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/edit-distance/)|Hard|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](./algorithms/set-matrix-zeroes/)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/search-a-2d-matrix/)|Medium|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./algorithms/sort-colors/)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[Java](./algorithms/combinations/)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](./algorithms/remove-duplicates-from-sorted-array-ii/)|Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./algorithms/remove-duplicates-from-sorted-list-ii/)|Medium|
