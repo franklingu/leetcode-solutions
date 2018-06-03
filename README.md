@@ -98,6 +98,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./algorithms/remove-linked-list-elements/)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./algorithms/isomorphic-strings/)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./algorithms/reverse-linked-list/)|Easy|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](./algorithms/kth-largest-element-in-an-array/)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](./algorithms/contains-duplicate/)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Java](./algorithms/contains-duplicate-ii/)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](./algorithms/summary-ranges/)|Medium|
@@ -130,13 +131,16 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Java](./algorithms/odd-even-linked-list/)|Medium|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Java](./algorithms/patching-array/)|Medium|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./algorithms/counting-bits/)|Medium|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./algorithms/reverse-string/)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./algorithms/valid-perfect-square/)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Java](./algorithms/sum-of-two-integers/)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./algorithms/find-the-difference/)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Java](./algorithms/hamming-distance/)|Easy|
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](./algorithms/max-consecutive-ones/)|Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](./algorithms/next-greater-element-i/)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Python](./algorithms/keyboard-row/)|Easy|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./algorithms/next-greater-element-ii/)|Medium|
+|595|[Big Countries](https://leetcode.com/problems/big-countries/)|[SQL](./databases/big-countries/)|Easy|
 
 ### Contribution Guide
 You can choose any problem in LeetCode and bring your solution here. However, notice the folder structure of current repo
