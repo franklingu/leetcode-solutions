@@ -91,6 +91,8 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[Shell](./shell/valid-phone-numbers/)|Easy|
 |194|[Transpose File](https://leetcode.com/problems/transpose-file/)|[Shell](./shell/transpose-file/)|Medium|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[Shell](./shell/tenth-line/)|Easy|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[SQL](./databases/delete-duplicate-emails/)|Easy|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[SQL](./databases/rising-temperature/)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./algorithms/happy-number/)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./algorithms/remove-linked-list-elements/)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./algorithms/isomorphic-strings/)|Easy|
