@@ -101,6 +101,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Python](./algorithms/kth-largest-element-in-an-array/)|Medium|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](./algorithms/contains-duplicate/)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[Java](./algorithms/contains-duplicate-ii/)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./algorithms/invert-binary-tree/)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](./algorithms/summary-ranges/)|Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Java](./algorithms/majority-element-ii/)|Medium|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](./algorithms/number-of-digit-one/)|Medium|
@@ -129,18 +130,30 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./algorithms/range-sum-query-immutable/)|Easy|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](./algorithms/range-sum-query-2d-immutable/)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Java](./algorithms/odd-even-linked-list/)|Medium|
-|330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Java](./algorithms/patching-array/)|Medium|
+|330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Java](./algorithms/patching-array/)|Hard|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./algorithms/counting-bits/)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./algorithms/reverse-string/)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./algorithms/valid-perfect-square/)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Java](./algorithms/sum-of-two-integers/)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./algorithms/find-the-difference/)|Easy|
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./algorithms/path-sum-iii/)|Easy|
+|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./algorithms/find-all-numbers-disappeared-in-an-array/)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Java](./algorithms/hamming-distance/)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](./algorithms/max-consecutive-ones/)|Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](./algorithms/next-greater-element-i/)|Easy|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Python](./algorithms/keyboard-row/)|Easy|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./algorithms/next-greater-element-ii/)|Medium|
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Java](./algorithms/convert-bst-to-greater-tree/)|Easy|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](./algorithms/diameter-of-binary-tree/)|Easy|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](./algorithms/subarray-sum-equals-k/)|Medium|
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Java](./algorithms/subtree-of-another-tree/)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[SQL](./databases/big-countries/)|Easy|
+|596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[SQL](./databases/classes-more-than-5-students/)|Easy|
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](./algorithms/can-place-flowers/)|Easy|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Java](./algorithms/merge-two-binary-trees/)|Easy|
+|627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[SQL](./databases/swap-salary/)|Easy|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](./algorithms/flipping-an-image/)|Easy|
+
 
 ### Contribution Guide
 You can choose any problem in LeetCode and bring your solution here. However, notice the folder structure of current repo
