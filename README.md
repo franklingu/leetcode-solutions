@@ -94,6 +94,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[Shell](./shell/tenth-line/)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[SQL](./databases/delete-duplicate-emails/)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[SQL](./databases/rising-temperature/)|Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java](./algorithms/house-robber/)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./algorithms/happy-number/)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./algorithms/remove-linked-list-elements/)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./algorithms/isomorphic-strings/)|Easy|
@@ -137,6 +138,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Java](./algorithms/sum-of-two-integers/)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./algorithms/find-the-difference/)|Easy|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./algorithms/path-sum-iii/)|Easy|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./algorithms/find-all-anagrams-in-a-string/)|Easy|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./algorithms/find-all-numbers-disappeared-in-an-array/)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Java](./algorithms/hamming-distance/)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](./algorithms/max-consecutive-ones/)|Easy|
