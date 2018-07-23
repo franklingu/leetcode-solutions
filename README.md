@@ -149,12 +149,14 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](./algorithms/diameter-of-binary-tree/)|Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](./algorithms/subarray-sum-equals-k/)|Medium|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Java](./algorithms/subtree-of-another-tree/)|Easy|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Java](./algorithms/shortest-unsorted-continuous-subarray/)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[SQL](./databases/big-countries/)|Easy|
 |596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[SQL](./databases/classes-more-than-5-students/)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](./algorithms/can-place-flowers/)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Java](./algorithms/merge-two-binary-trees/)|Easy|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[SQL](./databases/swap-salary/)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](./algorithms/flipping-an-image/)|Easy|
+|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Java](./algorithms/leaf-similar-trees/)|Easy|
 
 
 ### Contribution Guide
