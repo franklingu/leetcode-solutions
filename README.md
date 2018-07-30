@@ -156,8 +156,11 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](./algorithms/can-place-flowers/)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Java](./algorithms/merge-two-binary-trees/)|Easy|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[SQL](./databases/swap-salary/)|Easy|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./algorithms/to-lower-case/)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./algorithms/jewels-and-stones/)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](./algorithms/flipping-an-image/)|Easy|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Java](./algorithms/leaf-similar-trees/)|Easy|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./algorithms/middle-of-the-linked-list/)|Easy|
 
 
 ### Contribution Guide
