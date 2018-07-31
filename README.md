@@ -6,6 +6,7 @@ LeetCode Solutions
 LeetCode is a very good website to sharpen your programming/problem-solving skills. Of course, not all solutions here are optimal and your suggestions and contributions are welcomed.
 
 ### Contents
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./algorithms/two-sum/)|Medium|
@@ -36,7 +37,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./algorithms/combination-sum/)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./algorithms/multiply-strings/)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](./algorithms/permutations/)|Medium|
-|50|[Pow(x,n)](https://leetcode.com/problems/powx-n/)|[Java](./algorithms/pow(x,n)/)|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./algorithms/pow(x,n)/)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./algorithms/maximum-subarray/)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./algorithms/spiral-matrix/)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./algorithms/jump-game/)|Medium|
@@ -60,7 +61,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./algorithms/same-tree/)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./algorithms/symmetric-tree/)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./algorithms/binary-tree-level-order-traversal/)|Easy|
-|104|[Maximum Depth of Binary Tree My Submissions Question](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./algorithms/maximum-depth-of-binary-tree/)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./algorithms/maximum-depth-of-binary-tree/)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](./algorithms/binary-tree-level-order-traversal-ii/)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](./algorithms/convert-sorted-array-to-binary-search-tree/)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](./algorithms/balanced-binary-tree/)|Easy|
@@ -119,7 +120,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./algorithms/missing-number/)|Medium|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Java](./algorithms/integer-to-english-words/)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[Java](./algorithms/h-index/)|Medium|
-|275|[H-index II](https://leetcode.com/problems/h-index-ii/)|[Java](./algorithms/h-index-2/)|Medium|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii/)|[Java](./algorithms/h-index-2/)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Java](./algorithms/perfect-squares/)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./algorithms/move-zeroes/)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./algorithms/peeking-iterator/)|Medium|
@@ -167,8 +168,17 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Java](./algorithms/leaf-similar-trees/)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./algorithms/middle-of-the-linked-list/)|Easy|
 
+### Features
+
+* Contains a lot of interview questions and still constantly adding!
+* Many languages are used for problems -- you can choose what you want!
+
+### Quick Start
+
+Clone it. Have a look at the solutions or some particular question and get inpired!
 
 ### Contribution Guide
+
 You can choose any problem in LeetCode and bring your solution here. However, notice the folder structure of current repo
 
 ```
@@ -187,4 +197,9 @@ You can choose any problem in LeetCode and bring your solution here. However, no
 5. After review and discussions, the patch will be merged!
 
 ### Question and Help
+
 You are welcome to use Issue Trackers in the repository to bring up any questions!
+
+### License
+
+[MIT license](./LICENSE). You are free to contribute or hack!
