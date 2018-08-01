@@ -3,6 +3,7 @@
 """
 import os
 import re
+import logging
 import time
 import random
 
@@ -41,7 +42,7 @@ def read_solutions_table(readme_fp):
     return data
 
 
-def validate_questions(solutions_data, retry=3, sleep=30, **kwargs):
+def validate_questions(solutions_data, retry=3, sleep=30, **kwargs):  #pylint: disable=unused-argument
     for elems in solutions_data:
         # question_number = elems[0]
         question_title, question_link = elems[1]
@@ -54,14 +55,18 @@ def validate_questions(solutions_data, retry=3, sleep=30, **kwargs):
                     raise ValueError('No question found')
                 cleaned_title = title[0].text.split(' - LeetCode')[0].strip()
                 if cleaned_title == question_title:
-                    print(cleaned_title)
+                    logging.getLogger(__name__).info(
+                        'Question validation done for %s', cleaned_title
+                    )
                     break
                 else:
                     raise ValueError('Not matched: {} vs {}'.format(
                         cleaned_title, question_title
                     ))
-            except Exception as err:
-                print(err)
+            except Exception as err:  #pylint: disable=broad-except
+                logging.getLogger(__name__).warning(
+                    'Error during validate question %s: %s', question_title, err
+                )
                 time.sleep(random.random() * sleep)
         else:
             raise ValueError('{} seems invalid'.format(question_link))
@@ -85,7 +90,9 @@ def validate_solutions(solutions_data, **kwargs):
                 pass
         if track:
             raise ValueError('Langugage remaining: {}'.format(track))
-        print(elems[1])
+        logging.getLogger(__name__).info(
+            '%s solution validation done', elems[1][0]
+        )
 
 
 def main():
@@ -97,4 +104,12 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    logging.basicConfig(
+        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+        datefmt='%Y-%m-%d %H:%M:%S', level=logging.INFO
+    )
+    try:
+        main()
+    except Exception as err:  #pylint: disable=broad-except
+        logging.getLogger(__name__).exception('Exception: %s', err)
+        raise
