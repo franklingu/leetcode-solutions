@@ -1,6 +1,8 @@
 LeetCode Solutions
 ====================================================
 
+[![Build Status](https://travis-ci.org/franklingu/leetcode-solutions.svg?branch=master)](https://travis-ci.org/franklingu/leetcode-solutions)
+
 ### Introduction
 
 LeetCode is a very good website to sharpen your programming/problem-solving skills. Of course, not all solutions here are optimal and your suggestions and contributions are welcomed.
