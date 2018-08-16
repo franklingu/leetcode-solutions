@@ -70,6 +70,7 @@ def validate_questions(solutions_data, retry=3, sleep=30, **kwargs):  #pylint: d
                 time.sleep(random.random() * sleep)
         else:
             raise ValueError('{} seems invalid'.format(question_link))
+    logging.getLogger(__name__).info('%d questions verified', len(solutions_data))
 
 def validate_solutions(solutions_data, **kwargs):
     curr_dir = kwargs['curr_dir']
@@ -93,6 +94,7 @@ def validate_solutions(solutions_data, **kwargs):
         logging.getLogger(__name__).info(
             '%s solution validation done', elems[1][0]
         )
+    logging.getLogger(__name__).info('%d solutions verified', len(solutions_data))
 
 
 def main():

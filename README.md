@@ -81,6 +81,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Java](./algorithms/word-break/)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./algorithms/linked-list-cycle/)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./algorithms/linked-list-cycle-ii/)|Medium|
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Java](./algorithms/max-points-on-a-line/)|Hard|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./algorithms/min-stack/)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./algorithms/intersection-of-two-linked-lists/)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./algorithms/find-peak-element/)|Medium|
@@ -165,8 +166,22 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](./algorithms/self-dividing-numbers/)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./algorithms/jewels-and-stones/)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](./algorithms/unique-morse-code-words/)|Easy|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python](./algorithms/subdomain-visit-count/)|Easy|
+|812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Python](./algorithms/largest-triangle-area/)|Easy|
+|819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](./algorithms/most-common-word/)|Easy|
+|821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Python](./algorithms/shortest-distance-to-a-character/)|Easy|
+|824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Python](./algorithms/goat-latin/)|Easy|
+|830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[Python](./algorithms/positions-of-large-groups/)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](./algorithms/flipping-an-image/)|Easy|
+|836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)|[Python](./algorithms/rectangle-overlap/)|Easy|
+|840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[Python](./algorithms/magic-squares-in-grid/)|Easy|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Python](./algorithms/backspace-string-compare/)|Easy|
+|849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[Python](./algorithms/maximize-distance-to-closest-person/)|Easy|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[Python](./algorithms/peak-index-in-a-mountain-array/)|Easy|
+|859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[Python](./algorithms/buddy-strings/)|Easy|
+|860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[Python](./algorithms/lemonade-change/)|Easy|
+|867|[Binary Gap](https://leetcode.com/problems/binary-gap/)|[Python](./algorithms/binary-gap/)|Easy|
+|868|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python](./algorithms/transpose-matrix/)|Easy|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Java](./algorithms/leaf-similar-trees/)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./algorithms/middle-of-the-linked-list/)|Easy|
 
