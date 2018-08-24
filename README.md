@@ -89,6 +89,10 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./algorithms/majority-element/)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](./databases/combine-two-tables/)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](./databases/second-highest-salary/)|Easy|
+|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[SQL](./databases/nth-highest-salary/)|Medium|
+|178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[SQL](./databases/rank-scores/)|Medium|
+|180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[SQL](./databases/consecutive-numbers/)|Medium|
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[SQL](./databases/employees-earning-more-than-their-managers/)|Easy|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./algorithms/repeated-dna-sequences/)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/rotate-array/)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./algorithms/reverse-bits/)|Easy|
