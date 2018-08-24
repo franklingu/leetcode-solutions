@@ -13,3 +13,6 @@ hs_err_pid*
 
 # ignore vim
 *.swp
+
+# ignore cache
+.cache/
