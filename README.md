@@ -93,6 +93,10 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[SQL](./databases/rank-scores/)|Medium|
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[SQL](./databases/consecutive-numbers/)|Medium|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[SQL](./databases/employees-earning-more-than-their-managers/)|Easy|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./databases/duplicate-emails/)|Easy|
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[SQL](./databases/customers-who-never-order/)|Easy|
+|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[SQL](./databases/department-highest-salary/)|Medium|
+|185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[SQL](./databases/department-top-three-salaries/)|Hard|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./algorithms/repeated-dna-sequences/)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/rotate-array/)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./algorithms/reverse-bits/)|Easy|
@@ -122,6 +126,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./algorithms/binary-tree-paths/)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[C++](./algorithms/add-digits/)|Easy|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)|[Java](./algorithms/single-number-iii/)|Medium|
+|262|[Trips and Users](https://leetcode.com/problems/trips-and-users/)|[SQL](./databases/trips-and-users/)|Hard|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./algorithms/ugly-number/)|Easy|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[Java](./algorithms/ugly-number-ii/)|Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./algorithms/missing-number/)|Medium|
@@ -162,8 +167,11 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Java](./algorithms/shortest-unsorted-continuous-subarray/)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[SQL](./databases/big-countries/)|Easy|
 |596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[SQL](./databases/classes-more-than-5-students/)|Easy|
+|601|[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)|[SQL](./databases/human-traffic-of-stadium/)|Hard|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](./algorithms/can-place-flowers/)|Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Java](./algorithms/merge-two-binary-trees/)|Easy|
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[SQL](./databases/not-boring-movies/)|Easy|
+|626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[SQL](./databases/exchange-seats/)|Medium|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[SQL](./databases/swap-salary/)|Easy|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Python](./algorithms/judge-route-circle/)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./algorithms/to-lower-case/)|Easy|
