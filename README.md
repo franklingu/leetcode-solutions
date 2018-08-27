@@ -195,7 +195,17 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |867|[Binary Gap](https://leetcode.com/problems/binary-gap/)|[Python](./algorithms/binary-gap/)|Easy|
 |868|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Python](./algorithms/transpose-matrix/)|Easy|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[Java](./algorithms/leaf-similar-trees/)|Easy|
+|874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[Java](./algorithms/walking-robot-simulation/)|Easy|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Python](./algorithms/middle-of-the-linked-list/)|Easy|
+|880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)|[Python](./algorithms/decoded-string-at-index/)|Medium|
+|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|[Python](./algorithms/boats-to-save-people/)|Medium|
+|883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)|[Java](./algorithms/projection-area-of-3d-shapes/)|Easy|
+|884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[Python](./algorithms/uncommon-words-from-two-sentences/)|Easy|
+|885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Python](./algorithms/spiral-matrix-iii/)|Medium|
+|888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Python](./algorithms/fair-candy-swap/)|Easy|
+|892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[Python](./algorithms/surface-area-of-3d-shapes/)|Easy|
+|893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)|[Python](./algorithms/groups-of-special-equivalent-strings/)|Easy|
+|894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[Python](./algorithms/all-possible-full-binary-trees/)|Medium|
 
 ### Features
 
