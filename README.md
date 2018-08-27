@@ -177,7 +177,11 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./algorithms/to-lower-case/)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](./algorithms/self-dividing-numbers/)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./algorithms/jewels-and-stones/)|Easy|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](./algorithms/letter-case-permutation/)|Easy|
+|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python](./algorithms/rotated-digits/)|Easy|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[Python](./algorithms/rotate-string/)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Python](./algorithms/unique-morse-code-words/)|Easy|
+|806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[Python](./algorithms/number-of-lines-to-write-string/)|Easy|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Python](./algorithms/subdomain-visit-count/)|Easy|
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Python](./algorithms/largest-triangle-area/)|Easy|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[Python](./algorithms/most-common-word/)|Easy|
