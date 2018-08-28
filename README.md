@@ -175,7 +175,10 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[SQL](./databases/swap-salary/)|Easy|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Python](./algorithms/judge-route-circle/)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./algorithms/to-lower-case/)|Easy|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](./algorithms/find-pivot-index/)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](./algorithms/self-dividing-numbers/)|Easy|
+|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[Python](./algorithms/flood-fill/)|Easy|
+|744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python](./algorithms/find-smallest-letter-greater-than-target/)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](./algorithms/min-cost-climbing-stairs/)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Python](./algorithms/largest-number-at-least-twice-of-others/)|Easy|
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[Python](./algorithms/prime-number-of-set-bits-in-binary-representation/)|Easy|
