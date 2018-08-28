@@ -176,6 +176,10 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Python](./algorithms/judge-route-circle/)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./algorithms/to-lower-case/)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Python](./algorithms/self-dividing-numbers/)|Easy|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Python](./algorithms/min-cost-climbing-stairs/)|Easy|
+|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)|[Python](./algorithms/largest-number-at-least-twice-of-others/)|Easy|
+|762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)|[Python](./algorithms/prime-number-of-set-bits-in-binary-representation/)|Easy|
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[Python](./algorithms/toeplitz-matrix/)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Python](./algorithms/jewels-and-stones/)|Easy|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[Python](./algorithms/letter-case-permutation/)|Easy|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[Python](./algorithms/rotated-digits/)|Easy|
