@@ -42,27 +42,33 @@ def read_solutions_table(readme_fp):
     return data
 
 
-def validate_questions(solutions_data, retry=3, sleep=30, **kwargs):  #pylint: disable=unused-argument
+def validate_questions(solutions_data, retry=7, sleep=30, **kwargs):  #pylint: disable=unused-argument
+    ua = (
+        'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
+        '(KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36'
+    )
     for elems in solutions_data:
         # question_number = elems[0]
         question_title, question_link = elems[1]
         for _ in range(retry):
             try:
-                res = requests.get(question_link, timeout=sleep)
-                parsed = HTMLParser.fromstring(res.content)
-                title = parsed.cssselect('title')
-                if not title:
-                    raise ValueError('No question found')
-                cleaned_title = title[0].text.split(' - LeetCode')[0].strip()
-                if cleaned_title == question_title:
-                    logging.getLogger(__name__).info(
-                        'Question validation done for %s', cleaned_title
-                    )
-                    break
-                else:
-                    raise ValueError('Not matched: {} vs {}'.format(
-                        cleaned_title, question_title
-                    ))
+                with requests.Session() as ses:
+                    ses.headers.update({'User-Agent': ua})
+                    res = ses.get(question_link, timeout=sleep)
+                    parsed = HTMLParser.fromstring(res.content)
+                    title = parsed.cssselect('title')
+                    if not title:
+                        raise ValueError('No question found')
+                    cleaned_title = title[0].text.split(' - LeetCode')[0].strip()
+                    if cleaned_title == question_title:
+                        logging.getLogger(__name__).info(
+                            'Question validation done for %s', cleaned_title
+                        )
+                        break
+                    else:
+                        raise ValueError('Not matched: {} vs {}'.format(
+                            cleaned_title, question_title
+                        ))
             except Exception as err:  #pylint: disable=broad-except
                 logging.getLogger(__name__).warning(
                     'Error during validate question %s: %s', question_title, err
