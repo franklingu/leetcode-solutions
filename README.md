@@ -174,6 +174,10 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[SQL](./databases/exchange-seats/)|Medium|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[SQL](./databases/swap-salary/)|Easy|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Python](./algorithms/judge-route-circle/)|Easy|
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Python](./algorithms/kth-largest-element-in-a-stream/)|Easy|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](./algorithms/binary-search/)|Easy|
+|705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Python](./algorithms/design-hashset/)|Easy|
+|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python](./algorithms/design-hashmap/)|Easy|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[Python](./algorithms/design-linked-list/)|Easy|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[Python](./algorithms/to-lower-case/)|Easy|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[Python](./algorithms/1-bit-and-2-bit-characters/)|Easy|
