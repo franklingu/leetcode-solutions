@@ -174,6 +174,9 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[SQL](./databases/exchange-seats/)|Medium|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[SQL](./databases/swap-salary/)|Easy|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Python](./algorithms/judge-route-circle/)|Easy|
+|690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Python](./algorithms/employee-importance/)|Easy|
+|693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Python](./algorithms/binary-number-with-alternating-bits/)|Easy|
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./algorithms/max-area-of-island/)|Easy|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Python](./algorithms/count-binary-substrings/)|Easy|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Python](./algorithms/degree-of-an-array/)|Easy|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](./algorithms/search-in-a-binary-search-tree/)|Easy|
