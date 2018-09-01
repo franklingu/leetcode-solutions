@@ -174,6 +174,9 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[SQL](./databases/exchange-seats/)|Medium|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[SQL](./databases/swap-salary/)|Easy|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Python](./algorithms/judge-route-circle/)|Easy|
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](./algorithms/baseball-game/)|Easy|
+|686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[Python](./algorithms/repeated-string-match/)|Easy|
+|687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Python](./algorithms/longest-univalue-path/)|Easy|
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Python](./algorithms/employee-importance/)|Easy|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[Python](./algorithms/binary-number-with-alternating-bits/)|Easy|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Python](./algorithms/max-area-of-island/)|Easy|
