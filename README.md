@@ -174,6 +174,10 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[SQL](./databases/exchange-seats/)|Medium|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[SQL](./databases/swap-salary/)|Easy|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Python](./algorithms/judge-route-circle/)|Easy|
+|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Python](./algorithms/trim-a-binary-search-tree/)|Easy|
+|671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](./algorithms/second-minimum-node-in-a-binary-tree/)|Easy|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](./algorithms/longest-continuous-increasing-subsequence/)|Easy|
+|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](./algorithms/valid-palindrome-ii/)|Easy|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Python](./algorithms/baseball-game/)|Easy|
 |686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match/)|[Python](./algorithms/repeated-string-match/)|Easy|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Python](./algorithms/longest-univalue-path/)|Easy|
