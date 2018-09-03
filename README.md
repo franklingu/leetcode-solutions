@@ -173,7 +173,12 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[SQL](./databases/not-boring-movies/)|Easy|
 |626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/)|[SQL](./databases/exchange-seats/)|Medium|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/)|[SQL](./databases/swap-salary/)|Easy|
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[Python](./algorithms/maximum-average-subarray-i/)|Easy|
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Python](./algorithms/set-mismatch/)|Easy|
+|653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)|[Python](./algorithms/two-sum-iv-input-is-a-bst/)|Easy|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Python](./algorithms/judge-route-circle/)|Easy|
+|661|[Image Smoother](https://leetcode.com/problems/image-smoother/)|[Python](./algorithms/image-smoother/)|Easy|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](./algorithms/non-decreasing-array/)|Easy|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Python](./algorithms/trim-a-binary-search-tree/)|Easy|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](./algorithms/second-minimum-node-in-a-binary-tree/)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](./algorithms/longest-continuous-increasing-subsequence/)|Easy|
