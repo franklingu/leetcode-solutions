@@ -16,3 +16,6 @@ hs_err_pid*
 
 # ignore cache
 .cache/
+
+# VSCode config
+.vscode/

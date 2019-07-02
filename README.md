@@ -11,37 +11,41 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./algorithms/two-sum/)|Medium|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](./algorithms/add-two-numbers/)|Medium|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./algorithms/longest-substring-without-repeating-characters/)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java,Python](./algorithms/two-sum/)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java,Python](./algorithms/add-two-numbers/)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java,Python](./algorithms/longest-substring-without-repeating-characters/)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./algorithms/reverse-integer/)|Easy|
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](./algorithms/string-to-integer/)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java,Python](./algorithms/string-to-integer/)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./algorithms/palindrome-number/)|Easy|
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](./algorithms/container-with-most-water/)|Medium|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java,Python](./algorithms/container-with-most-water/)|Medium|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Java](./algorithms/integer-to-roman/)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./algorithms/roman-to-integer/)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./algorithms/longest-common-prefix/)|Easy|
-|15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./algorithms/3sum/)|Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[Java,Python](./algorithms/3sum/)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](./algorithms/3sum-closest/)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](./algorithms/letter-combinations-of-a-phone-number/)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./algorithms/remove-nth-node-from-end-of-list/)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./algorithms/valid-parentheses/)|Easy|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./algorithms/merge-two-sorted-lists/)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java,Python](./algorithms/merge-two-sorted-lists/)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./algorithms/generate-parentheses/)|Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Python](./algorithms/merge-k-sorted-lists/)|Medium|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](./algorithms/swap-nodes-in-pairs/)|Medium|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Python](./algorithms/reverse-nodes-in-k-group/)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./algorithms/remove-duplicates-from-sorted-array/)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./algorithms/remove-element/)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./algorithms/implement-strstr/)|Easy|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](./algorithms/search-in-rotated-sorted-array/)|Hard|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python](./algorithms/next-permutation/)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java,Python](./algorithms/search-in-rotated-sorted-array/)|Hard|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/search-insert-position/)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./algorithms/valid-sudoku/)|Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./algorithms/count-and-say/)|Easy|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./algorithms/combination-sum/)|Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](./algorithms/trapping-rain-water/)|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./algorithms/multiply-strings/)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](./algorithms/permutations/)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./algorithms/pow(x,n)/)|Medium|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./algorithms/maximum-subarray/)|Medium|
-|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./algorithms/spiral-matrix/)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java,Python](./algorithms/maximum-subarray/)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java,Python](./algorithms/spiral-matrix/)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./algorithms/jump-game/)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](./algorithms/length-of-last-word/)|Easy|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|Medium|
@@ -49,6 +53,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./algorithms/add-binary/)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++,Python](./algorithms/sqrtx/)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./algorithms/climbing-stairs/)|Easy|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](./algorithms/simplify-path/)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/edit-distance/)|Hard|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](./algorithms/set-matrix-zeroes/)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/search-a-2d-matrix/)|Medium|
@@ -57,13 +62,14 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](./algorithms/remove-duplicates-from-sorted-array-ii/)|Medium|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./algorithms/remove-duplicates-from-sorted-list-ii/)|Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./algorithms/remove-duplicates-from-sorted-list/)|Easy|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Python](./algorithms/maximal-rectangle/)|Hard|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./algorithms/merge-sorted-array/)|Easy|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](./algorithms/reverse-linked-list-ii/)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./algorithms/validate-binary-search-tree/)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./algorithms/same-tree/)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./algorithms/symmetric-tree/)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./algorithms/binary-tree-level-order-traversal/)|Easy|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java](./algorithms/maximum-depth-of-binary-tree/)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java,Python](./algorithms/maximum-depth-of-binary-tree/)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](./algorithms/binary-tree-level-order-traversal-ii/)|Easy|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](./algorithms/convert-sorted-array-to-binary-search-tree/)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](./algorithms/balanced-binary-tree/)|Easy|
@@ -75,15 +81,17 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/best-time-to-buy-and-sell-stock/)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./algorithms/valid-palindrome/)|Easy|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./algorithms/sum-root-to-leaf-numbers/)|Medium|
+|135|[Candy](https://leetcode.com/problems/candy/)|[Python](./algorithms/candy/)|Hard|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/single-number/)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Java](./algorithms/single-number-ii/)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Java](./algorithms/copy-list-with-random-pointer/)|Hard|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Java](./algorithms/word-break/)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./algorithms/linked-list-cycle/)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./algorithms/linked-list-cycle-ii/)|Medium|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Python](./algorithms/lru-cache/)|Medium|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Java](./algorithms/max-points-on-a-line/)|Hard|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./algorithms/min-stack/)|Easy|
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java](./algorithms/intersection-of-two-linked-lists/)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java,Python](./algorithms/intersection-of-two-linked-lists/)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./algorithms/find-peak-element/)|Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Java](./algorithms/compare-version-numbers/)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./algorithms/majority-element/)|Easy|
@@ -136,7 +144,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Java](./algorithms/perfect-squares/)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./algorithms/move-zeroes/)|Easy|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./algorithms/peeking-iterator/)|Medium|
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](./algorithms/find-the-duplicate-number/)|Hard|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java,Python](./algorithms/find-the-duplicate-number/)|Medium|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Java](./algorithms/word-pattern/)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[C++](./algorithms/nim-game/)|Easy|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Java](./algorithms/find-median-from-data-stream/)|Hard|
@@ -144,6 +152,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./algorithms/longest-increasing-subsequence/)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./algorithms/range-sum-query-immutable/)|Easy|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](./algorithms/range-sum-query-2d-immutable/)|Medium|
+|317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|[Python](./algorithms/shortest-distance-from-all-buildings/)|Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Java](./algorithms/odd-even-linked-list/)|Medium|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Java](./algorithms/patching-array/)|Hard|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./algorithms/counting-bits/)|Medium|
@@ -151,8 +160,10 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./algorithms/valid-perfect-square/)|Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Java](./algorithms/sum-of-two-integers/)|Easy|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./algorithms/find-the-difference/)|Easy|
+|394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./algorithms/decode-string/)|Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./algorithms/path-sum-iii/)|Easy|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./algorithms/find-all-anagrams-in-a-string/)|Easy|
+|445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Python](./algorithms/add-two-numbers-ii/)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Java](./algorithms/find-all-numbers-disappeared-in-an-array/)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Java](./algorithms/hamming-distance/)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Java](./algorithms/max-consecutive-ones/)|Easy|
@@ -160,7 +171,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Python](./algorithms/keyboard-row/)|Easy|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./algorithms/next-greater-element-ii/)|Medium|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Java](./algorithms/convert-bst-to-greater-tree/)|Easy|
-|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java](./algorithms/diameter-of-binary-tree/)|Easy|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java,Python](./algorithms/diameter-of-binary-tree/)|Easy|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](./algorithms/subarray-sum-equals-k/)|Medium|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[Python](./algorithms/array-partition-i/)|Easy|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Java](./algorithms/subtree-of-another-tree/)|Easy|
@@ -180,6 +191,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/)|[Python](./algorithms/image-smoother/)|Easy|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[Python](./algorithms/non-decreasing-array/)|Easy|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[Python](./algorithms/trim-a-binary-search-tree/)|Easy|
+|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Python](./algorithms/maximum-swap/)|Medium|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[Python](./algorithms/second-minimum-node-in-a-binary-tree/)|Easy|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Python](./algorithms/longest-continuous-increasing-subsequence/)|Easy|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[Python](./algorithms/valid-palindrome-ii/)|Easy|
@@ -241,6 +253,8 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[Python](./algorithms/surface-area-of-3d-shapes/)|Easy|
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)|[Python](./algorithms/groups-of-special-equivalent-strings/)|Easy|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[Python](./algorithms/all-possible-full-binary-trees/)|Medium|
+|958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Python](./algorithms/check-completeness-of-a-binary-tree/)|Medium|
+|1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Python](./algorithms/last-stone-weight-ii/)|Medium|
 
 ### Features
 
