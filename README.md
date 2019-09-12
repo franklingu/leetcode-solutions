@@ -11,7 +11,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java,Python](./algorithms/two-sum/)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java,Python](./algorithms/two-sum/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java,Python](./algorithms/add-two-numbers/)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java,Python](./algorithms/longest-substring-without-repeating-characters/)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./algorithms/reverse-integer/)|Easy|
