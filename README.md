@@ -34,7 +34,9 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./algorithms/remove-duplicates-from-sorted-array/)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./algorithms/remove-element/)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./algorithms/implement-strstr/)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](./algorithms/divide-two-integers/)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python](./algorithms/next-permutation/)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](./algorithms/longest-valid-parentheses/)|Hard|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java,Python](./algorithms/search-in-rotated-sorted-array/)|Hard|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/search-insert-position/)|Medium|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./algorithms/valid-sudoku/)|Easy|
