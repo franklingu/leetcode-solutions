@@ -37,14 +37,16 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Python](./algorithms/divide-two-integers/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python](./algorithms/next-permutation/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](./algorithms/longest-valid-parentheses/)|![Hard](https://img.shields.io/badge/-Hard-red)|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java,Python](./algorithms/search-in-rotated-sorted-array/)|![Hard](https://img.shields.io/badge/-Hard-red)|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java,Python](./algorithms/search-in-rotated-sorted-array/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java,Python](./algorithms/find-first-and-last-position-of-element-in-sorted-array/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/search-insert-position/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./algorithms/valid-sudoku/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./algorithms/count-and-say/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./algorithms/combination-sum/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](./algorithms/trapping-rain-water/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./algorithms/multiply-strings/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
-|46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](./algorithms/permutations/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[Java,Python](./algorithms/permutations/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Python](./algorithms/permutations-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./algorithms/pow(x,n)/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java,Python](./algorithms/maximum-subarray/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java,Python](./algorithms/spiral-matrix/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
