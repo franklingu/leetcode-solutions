@@ -96,7 +96,7 @@ def validate_solutions(solutions_data, **kwargs):
             except KeyError:
                 pass
         if track:
-            raise ValueError('Langugage remaining: {}'.format(track))
+            raise ValueError('Langugage remaining: {} for {}'.format(track, elems[1][0]))
         logging.getLogger(__name__).info(
             '%s solution validation done', elems[1][0]
         )
@@ -107,7 +107,8 @@ def main():
     curr_dir = os.path.dirname(os.path.realpath(__file__))
     readme_fp = os.path.join(curr_dir, 'README.md')
     solutions_data = read_solutions_table(readme_fp)
-    validate_questions(solutions_data, curr_dir=curr_dir)
+    # TODO: disable question validation now as leetcode changed to graphql: #42
+    # validate_questions(solutions_data, curr_dir=curr_dir)
     validate_solutions(solutions_data, curr_dir=curr_dir)
 
 

@@ -38,7 +38,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Python](./algorithms/next-permutation/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Python](./algorithms/longest-valid-parentheses/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java,Python](./algorithms/search-in-rotated-sorted-array/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
-|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java,Python](./algorithms/find-first-and-last-position-of-element-in-sorted-array/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](./algorithms/find-first-and-last-position-of-element-in-sorted-array/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/search-insert-position/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./algorithms/valid-sudoku/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./algorithms/count-and-say/)|![Easy](https://img.shields.io/badge/-Easy-green)|
