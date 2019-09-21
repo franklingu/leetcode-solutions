@@ -43,6 +43,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./algorithms/valid-sudoku/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./algorithms/count-and-say/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./algorithms/combination-sum/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Python](./algorithms/combination-sum-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](./algorithms/trapping-rain-water/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./algorithms/multiply-strings/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java,Python](./algorithms/permutations/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
