@@ -48,6 +48,8 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./algorithms/multiply-strings/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java,Python](./algorithms/permutations/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Python](./algorithms/permutations-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](./algorithms/rotate-image/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./algorithms/group-anagrams/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](./algorithms/pow(x,n)/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java,Python](./algorithms/maximum-subarray/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java,Python](./algorithms/spiral-matrix/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
