@@ -54,8 +54,15 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java,Python](./algorithms/maximum-subarray/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java,Python](./algorithms/spiral-matrix/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./algorithms/jump-game/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Python](./algorithms/merge-intervals/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|56|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[Python](./algorithms/insert-interval/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](./algorithms/length-of-last-word/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./algorithms/rotate-list/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Python](./algorithms/spiral-matrix-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[Python](./algorithms/permutation-sequence/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java,Python](./algorithms/rotate-list/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[Python](./algorithms/unique-paths/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Python](./algorithms/unique-paths-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Python](./algorithms/minimum-path-sum/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./algorithms/plus-one/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./algorithms/add-binary/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++,Python](./algorithms/sqrtx/)|![Easy](https://img.shields.io/badge/-Easy-green)|
@@ -64,7 +71,8 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/edit-distance/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](./algorithms/set-matrix-zeroes/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/search-a-2d-matrix/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java](./algorithms/sort-colors/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java,Python](./algorithms/sort-colors/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](./algorithms/minimum-window-substring/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[Java](./algorithms/combinations/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](./algorithms/remove-duplicates-from-sorted-array-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./algorithms/remove-duplicates-from-sorted-list-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
