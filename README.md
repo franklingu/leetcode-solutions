@@ -73,10 +73,14 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/search-a-2d-matrix/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java,Python](./algorithms/sort-colors/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Python](./algorithms/minimum-window-substring/)|![Hard](https://img.shields.io/badge/-Hard-red)|
-|77|[Combinations](https://leetcode.com/problems/combinations/)|[Java](./algorithms/combinations/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[Java,Python](./algorithms/combinations/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|78|[Subsets](https://leetcode.com/problems/subsets/)|[Python](./algorithms/subsets/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|79|[Word Search](https://leetcode.com/problems/word-search/)|[Python](./algorithms/word-search/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](./algorithms/remove-duplicates-from-sorted-array-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](./algorithms/search-in-rotated-sorted-array-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./algorithms/remove-duplicates-from-sorted-list-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./algorithms/remove-duplicates-from-sorted-list/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Python](./algorithms/largest-rectangle-in-histogram/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Python](./algorithms/maximal-rectangle/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./algorithms/merge-sorted-array/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](./algorithms/reverse-linked-list-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
