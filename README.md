@@ -78,10 +78,11 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Python](./algorithms/word-search/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](./algorithms/remove-duplicates-from-sorted-array-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](./algorithms/search-in-rotated-sorted-array-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
-|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./algorithms/remove-duplicates-from-sorted-list-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++,Java,Python](./algorithms/remove-duplicates-from-sorted-list-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./algorithms/remove-duplicates-from-sorted-list/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Python](./algorithms/largest-rectangle-in-histogram/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Python](./algorithms/maximal-rectangle/)|![Hard](https://img.shields.io/badge/-Hard-red)|
+|86|[Partition List](https://leetcode.com/problems/partition-list/)|[Python](./algorithms/partition-list/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Java](./algorithms/merge-sorted-array/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](./algorithms/reverse-linked-list-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./algorithms/validate-binary-search-tree/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
