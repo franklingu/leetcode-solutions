@@ -146,6 +146,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./algorithms/invert-binary-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](./algorithms/summary-ranges/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)|[Java](./algorithms/majority-element-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Python](./algorithms/implement-queue-using-stacks/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[C++](./algorithms/number-of-digit-one/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./algorithms/palindrome-linked-list/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Java](./algorithms/lowest-common-ancestor-of-a-binary-search-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
