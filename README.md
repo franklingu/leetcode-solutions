@@ -88,14 +88,17 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./algorithms/validate-binary-search-tree/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./algorithms/same-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./algorithms/symmetric-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java](./algorithms/binary-tree-level-order-traversal/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Java,Python](./algorithms/binary-tree-level-order-traversal/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Python](./algorithms/binary-tree-zigzag-level-order-traversal/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Java,Python](./algorithms/maximum-depth-of-binary-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Python](./algorithms/construct-binary-tree-from-preorder-and-inorder-traversal/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](./algorithms/construct-binary-tree-from-inorder-and-postorder-traversal/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](./algorithms/binary-tree-level-order-traversal-ii/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](./algorithms/convert-sorted-array-to-binary-search-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](./algorithms/balanced-binary-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./algorithms/minimum-depth-of-binary-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Java](./algorithms/path-sum/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](./algorithms/path-sum-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Java,Python](./algorithms/path-sum/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java,Python](./algorithms/path-sum-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Java](./algorithms/pascals-triangle/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](./algorithms/pascals-triangle-ii/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/best-time-to-buy-and-sell-stock/)|![Easy](https://img.shields.io/badge/-Easy-green)|
