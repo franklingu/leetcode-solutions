@@ -95,6 +95,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[Python](./algorithms/construct-binary-tree-from-inorder-and-postorder-traversal/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](./algorithms/binary-tree-level-order-traversal-ii/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Python](./algorithms/convert-sorted-array-to-binary-search-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)|[Python](./algorithms/convert-sorted-list-to-binary-search-tree/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](./algorithms/balanced-binary-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./algorithms/minimum-depth-of-binary-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Java,Python](./algorithms/path-sum/)|![Easy](https://img.shields.io/badge/-Easy-green)|
@@ -104,6 +105,8 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/best-time-to-buy-and-sell-stock/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./algorithms/valid-palindrome/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./algorithms/sum-root-to-leaf-numbers/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python](./algorithms/palindrome-partitioning/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](./algorithms/gas-station/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |135|[Candy](https://leetcode.com/problems/candy/)|[Python](./algorithms/candy/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/single-number/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Java](./algorithms/single-number-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
@@ -111,12 +114,20 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[Java](./algorithms/word-break/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./algorithms/linked-list-cycle/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./algorithms/linked-list-cycle-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Python](./algorithms/binary-tree-preorder-traversal/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[Python](./algorithms/binary-tree-postorder-traversal/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Python](./algorithms/lru-cache/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Python](./algorithms/insertion-sort-list/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)|[Python](./algorithms/sort-list/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Java](./algorithms/max-points-on-a-line/)|![Hard](https://img.shields.io/badge/-Hard-red)|
-|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](./algorithms/min-stack/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Python](./algorithms/evaluate-reverse-polish-notation/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](./algorithms/reverse-words-in-a-string/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Python](./algorithms/maximum-product-subarray/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](./algorithms/find-minimum-in-rotated-sorted-array/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java,Python](./algorithms/min-stack/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java,Python](./algorithms/intersection-of-two-linked-lists/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./algorithms/find-peak-element/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
-|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Java](./algorithms/compare-version-numbers/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java,Python](./algorithms/find-peak-element/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Java,Python](./algorithms/compare-version-numbers/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./algorithms/majority-element/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](./databases/combine-two-tables/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](./databases/second-highest-salary/)|![Easy](https://img.shields.io/badge/-Easy-green)|
