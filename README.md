@@ -128,28 +128,38 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Java,Python](./algorithms/intersection-of-two-linked-lists/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java,Python](./algorithms/find-peak-element/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Java,Python](./algorithms/compare-version-numbers/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./algorithms/majority-element/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Python](./algorithms/fraction-to-recurring-decimal/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](./algorithms/two-sum-ii-input-array-is-sorted/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Python](./algorithms/excel-sheet-column-title/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Java,Python](./algorithms/majority-element/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Python](./algorithms/excel-sheet-column-number/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[Python](./algorithms/factorial-trailing-zeroes/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Python](./algorithms/binary-search-tree-iterator/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[SQL](./databases/combine-two-tables/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[SQL](./databases/second-highest-salary/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[SQL](./databases/nth-highest-salary/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[SQL](./databases/rank-scores/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|179|[Largest Number](https://leetcode.com/problems/largest-number/)|[Python](./algorithms/largest-number/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)|[SQL](./databases/consecutive-numbers/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[SQL](./databases/employees-earning-more-than-their-managers/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[SQL](./databases/duplicate-emails/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[SQL](./databases/customers-who-never-order/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[SQL](./databases/department-highest-salary/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[SQL](./databases/department-top-three-salaries/)|![Hard](https://img.shields.io/badge/-Hard-red)|
-|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java](./algorithms/repeated-dna-sequences/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java](./algorithms/rotate-array/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java](./algorithms/reverse-bits/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java](./algorithms/number-of-1-bits/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[Java,Python](./algorithms/repeated-dna-sequences/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|[Python](./algorithms/best-time-to-buy-and-sell-stock-iv/)|![Hard](https://img.shields.io/badge/-Hard-red)|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[Java,Python](./algorithms/rotate-array/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Java,Python](./algorithms/reverse-bits/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Java,Python](./algorithms/number-of-1-bits/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[Shell](./shell/word-frequency/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[Shell](./shell/valid-phone-numbers/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |194|[Transpose File](https://leetcode.com/problems/transpose-file/)|[Shell](./shell/transpose-file/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[Shell](./shell/tenth-line/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[SQL](./databases/delete-duplicate-emails/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[SQL](./databases/rising-temperature/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java](./algorithms/house-robber/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|[Java,Python](./algorithms/house-robber/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Python](./algorithms/binary-tree-right-side-view/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands)|[Python](./algorithms/number-of-islands/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./algorithms/happy-number/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./algorithms/remove-linked-list-elements/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./algorithms/isomorphic-strings/)|![Easy](https://img.shields.io/badge/-Easy-green)|
