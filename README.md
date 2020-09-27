@@ -68,7 +68,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C++,Python](./algorithms/sqrtx/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./algorithms/climbing-stairs/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Python](./algorithms/simplify-path/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
-|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java](./algorithms/edit-distance/)|![Hard](https://img.shields.io/badge/-Hard-red)|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)|[Java,C++](./algorithms/edit-distance/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](./algorithms/set-matrix-zeroes/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./algorithms/search-a-2d-matrix/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[Java,Python](./algorithms/sort-colors/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
