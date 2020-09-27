@@ -318,7 +318,15 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)|[Python](./algorithms/groups-of-special-equivalent-strings/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[Python](./algorithms/all-possible-full-binary-trees/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Python](./algorithms/check-completeness-of-a-binary-tree/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|1029|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./algorithms/check-if-it-is-a-straight-line/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Python](./algorithms/uncrossed-lines/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Python](./algorithms/longest-duplicate-substring/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Python](./algorithms/last-stone-weight-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Python](./algorithms/greatest-common-divisor-of-strings/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](./algorithms/longest-common-subsequence/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./algorithms/check-if-it-is-a-straight-line/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./algorithms/count-square-submatrices-with-all-ones/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|1344|[Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|[Python](./algorithms/angle-between-hands-of-a-clock/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 
 ### Features
 
