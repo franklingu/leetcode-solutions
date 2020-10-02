@@ -224,6 +224,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./algorithms/valid-perfect-square/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Java](./algorithms/sum-of-two-integers/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./algorithms/find-the-difference/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](./algorithms/is-subsequence/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./algorithms/decode-string/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./algorithms/path-sum-iii/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./algorithms/find-all-anagrams-in-a-string/)|![Easy](https://img.shields.io/badge/-Easy-green)|
