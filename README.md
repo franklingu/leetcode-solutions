@@ -104,6 +104,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Java](./algorithms/pascals-triangle-ii/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./algorithms/best-time-to-buy-and-sell-stock/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./algorithms/valid-palindrome/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Python,Java](./algorithms/word-ladder/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./algorithms/sum-root-to-leaf-numbers/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python](./algorithms/palindrome-partitioning/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)|[Python](./algorithms/gas-station/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
@@ -224,7 +225,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./algorithms/valid-perfect-square/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[Java](./algorithms/sum-of-two-integers/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)|[Python](./algorithms/find-the-difference/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](./algorithms/is-subsequence/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java,Python](./algorithms/is-subsequence/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[Python](./algorithms/decode-string/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./algorithms/path-sum-iii/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Java](./algorithms/find-all-anagrams-in-a-string/)|![Easy](https://img.shields.io/badge/-Easy-green)|

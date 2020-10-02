@@ -1,5 +1,5 @@
 import java.util.*;
-class abc
+class Solution
 {
     static int wordladder(String start,String target,ArrayList<String> al)
     {
