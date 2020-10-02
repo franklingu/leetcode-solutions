@@ -89,7 +89,7 @@ def validate_solutions(solutions_data, **kwargs):
         dirpath = os.path.join(curr_dir, elems[2][1])
         for fname in os.listdir(dirpath):
             fpart, ext = os.path.splitext(fname)
-            if fpart != 'Solution':
+            if fpart != 'Solution' and fpart != "solution":
                 raise ValueError('{} is an invalid filename'.format(fpart))
             try:
                 track.remove(language_map.get(ext[1:]))
