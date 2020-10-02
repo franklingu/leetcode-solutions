@@ -47,7 +47,7 @@ class RecentCounter:
         self.start_idx = pos
         return len(self.calls) - pos
 
-class RecentCounter:
+class RecentCounter2:
     def __init__(self):
         self.slide_window = deque()
 
