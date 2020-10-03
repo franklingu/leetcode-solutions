@@ -237,6 +237,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](./algorithms/next-greater-element-i/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Python](./algorithms/keyboard-row/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./algorithms/next-greater-element-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[Python](./algorithms/k-diff-pairs-in-an-array/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[Java](./algorithms/convert-bst-to-greater-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Java,Python](./algorithms/diameter-of-binary-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[Java](./algorithms/subarray-sum-equals-k/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
