@@ -42,7 +42,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/search-insert-position/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./algorithms/valid-sudoku/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./algorithms/count-and-say/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](./algorithms/combination-sum/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java,Python](./algorithms/combination-sum/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Python](./algorithms/combination-sum-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Python](./algorithms/trapping-rain-water/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./algorithms/multiply-strings/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
