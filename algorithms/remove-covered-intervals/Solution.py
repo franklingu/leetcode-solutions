@@ -58,4 +58,4 @@ class Solution:
             c += 1
             idx = i
         return c
-        
+            

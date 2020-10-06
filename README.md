@@ -331,6 +331,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](./algorithms/longest-common-subsequence/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./algorithms/check-if-it-is-a-straight-line/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./algorithms/count-square-submatrices-with-all-ones/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Python](./algorithms/remove-covered-intervals/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1344|[Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|[Python](./algorithms/angle-between-hands-of-a-clock/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 
 ### Features
