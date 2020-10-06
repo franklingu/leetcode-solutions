@@ -323,6 +323,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[Python](./algorithms/all-possible-full-binary-trees/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[Python](./algorithms/number-of-recent-calls/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)|[Python](./algorithms/check-completeness-of-a-binary-tree/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](./algorithms/complement-of-base-10-integer/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |1029|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./algorithms/check-if-it-is-a-straight-line/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)|[Python](./algorithms/uncrossed-lines/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Python](./algorithms/longest-duplicate-substring/)|![Hard](https://img.shields.io/badge/-Hard-red)|
