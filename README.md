@@ -272,6 +272,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[Python](./algorithms/count-binary-substrings/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[Python](./algorithms/degree-of-an-array/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Python](./algorithms/search-in-a-binary-search-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[Python](./algorithms/insert-into-a-binary-search-tree/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[Python](./algorithms/binary-search/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Python](./algorithms/design-hashset/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[Python](./algorithms/design-hashmap/)|![Easy](https://img.shields.io/badge/-Easy-green)|
