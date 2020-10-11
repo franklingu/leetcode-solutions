@@ -218,6 +218,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./algorithms/longest-increasing-subsequence/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](./algorithms/range-sum-query-immutable/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](./algorithms/range-sum-query-2d-immutable/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Python](./algorithms/remove-duplicate-letters/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |317|[Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/)|[Python](./algorithms/shortest-distance-from-all-buildings/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[Java](./algorithms/odd-even-linked-list/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |330|[Patching Array](https://leetcode.com/problems/patching-array/)|[Java](./algorithms/patching-array/)|![Hard](https://img.shields.io/badge/-Hard-red)|
@@ -332,6 +333,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Python](./algorithms/longest-duplicate-substring/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Python](./algorithms/last-stone-weight-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[Python](./algorithms/greatest-common-divisor-of-strings/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|1081|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)|[Python](./algorithms/smallest-subsequence-of-distinct-characters/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Python](./algorithms/longest-common-subsequence/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./algorithms/check-if-it-is-a-straight-line/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./algorithms/count-square-submatrices-with-all-ones/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
