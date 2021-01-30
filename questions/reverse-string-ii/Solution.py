@@ -1,0 +1,47 @@
+"""
+
+
+Given a string and an integer k, you need to reverse the first k characters for every 2k characters counting from the start of the string. If there are less than k characters left, reverse all of them. If there are less than 2k but greater than or equal to k characters, then reverse the first k characters and left the other as original.
+
+Example:
+
+Input: s = "abcdefg", k = 2
+Output: "bacdfeg"
+
+
+Restrictions: 
+
+ The string consists of lower English letters only.
+ Length of the given string and k will in the range [1, 10000]
+
+"""
+
+
+class Solution(object):
+    def reverseStr(self, s, k):
+        """
+        :type s: str
+        :type k: int
+        :rtype: str
+        """
+        if not s or k <= 0:
+            return s
+        r = [''] * len(s)
+        ck, tail, i, ic = True, False, 0, 0
+        while i < len(s):
+            if ck:
+                idx = i - ic + k - ic - 1
+                if idx >= len(s):
+                    tail = True
+                if tail:
+                    idx = -ic - 1
+                r[idx] = s[i]
+            else:
+                r[i] = s[i]
+            i += 1
+            if ic == k - 1:
+                ic = 0
+                ck = False if ck else True
+            else:
+                ic += 1
+        return ''.join(r)
