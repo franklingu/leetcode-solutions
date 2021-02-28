@@ -26,14 +26,16 @@ You may assume the sum of all the numbers is in the range of a signed 32-bit int
 
 class Solution:
     def checkSubarraySum(self, nums: List[int], k: int) -> bool:
-        if len(nums) < 2:
-            return False
-        sums = [0]
-        for i, num in enumerate(nums):
-            curr = sums[-1] + num
-            for j, ss in enumerate(sums):
-                if (k != 0 and (curr - ss) % k == 0) or (k == 0 and curr == ss):
-                    if j < i:
-                        return True
-            sums.append(curr)
+        tr = {0: -1}
+        cumsum = 0
+        for i, n in enumerate(nums):
+            cumsum += n
+            mode = cumsum
+            if k != 0:
+                mode = cumsum % k
+            if mode not in tr:
+                tr[mode] = i
+            else:
+                if i - tr[mode] >= 2:
+                    return True
         return False
