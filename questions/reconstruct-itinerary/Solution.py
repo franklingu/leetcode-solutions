@@ -37,4 +37,36 @@ class Solution:
             route.append(airport)
         visit('JFK')
         return route[::-1]
+
+
+class Solution:
+    def findItinerary(self, tickets: List[List[str]]) -> List[str]:
+        graph = defaultdict(list)
+        for st, ed in tickets:
+            graph[st].append(ed)
+        for st in graph:
+            graph[st].sort()
+        final_path = []
+        
+        def visit(curr, path):
+            if final_path:
+                return
+            path.append(curr)
+            if not graph:
+                for p in path:
+                    final_path.append(p)
+                return
+            nes = graph.get(curr, [])
+            for ne in nes:
+                idx = graph[curr].index(ne)
+                graph[curr].remove(ne)
+                if len(graph[curr]) == 0:
+                    del graph[curr]
+                visit(ne, path)
+                graph[curr].insert(idx, ne)
+            path.pop()
+                
+        
+        visit('JFK', [])
+        return final_path
         

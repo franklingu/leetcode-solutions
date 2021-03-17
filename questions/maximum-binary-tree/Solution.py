@@ -58,4 +58,32 @@ class Solution:
                 stk[-1].right = node
             stk.append(node)
         return stk[0]
-            
+
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution2:
+    def constructMaximumBinaryTree(self, nums: List[int]) -> TreeNode:
+        def get_max_tree(nums, lo, hi, rank):
+            if lo > hi:
+                return None
+            elif lo == hi:
+                return TreeNode(val=nums[lo])
+            node = None
+            idx = -1
+            for val, idx in rank:
+                if lo <= idx <= hi:
+                    node = TreeNode(val=val)
+                    break
+            left = get_max_tree(nums, lo, idx - 1, rank)
+            right = get_max_tree(nums, idx + 1, hi, rank)
+            node.left = left
+            node.right = right
+            return node
+        
+        rank = list(sorted([(val, idx) for idx, val in enumerate(nums)]))[::-1]
+        return get_max_tree(nums, 0, len(nums) - 1, rank)
