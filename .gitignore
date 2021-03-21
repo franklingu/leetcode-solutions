@@ -19,3 +19,5 @@ hs_err_pid*
 
 # VSCode config
 .vscode/
+
+__pycache__/
