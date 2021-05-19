@@ -17,6 +17,13 @@ extension_mapping = {
     'sql': 'sql',
     'shell': 'sh',
 }
+lang_name_mapping = {
+    'cpp': 'C++',
+    'py': 'Python',
+    'java': 'Java',
+    'sql': 'SQL',
+    'sh': 'Shell',
+}
 comment_mapping = {
     'cpp': ['/*', '*/'],
     'python': ['"""', '"""'],
@@ -24,6 +31,11 @@ comment_mapping = {
     'java': ['/*', '*/'],
     'sql': ['/*', '*/'],
     'shell': [": '", "'"],
+}
+diff_mapping = {
+    1: ['Easy', 'https://img.shields.io/badge/-Easy-green'],
+    2: ['Medium', 'https://img.shields.io/badge/-Medium-orange'],
+    3: ['Hard', 'https://img.shields.io/badge/-Hard-red'],
 }
 cookie = ''
 
@@ -85,28 +97,19 @@ def get_solution(session, question_meta):
     return code_line, lang
 
 
-def solution_exists(question_meta, lang):
-    if lang not in extension_mapping:
-        print('unknown lang', lang)
-        return True
-    title = question_meta['stat']['question__title']
+def get_solution_dir(question_meta):
     title_slug = question_meta['stat']['question__title_slug']
-    link = 'https://leetcode.com/problems/{}/'.format(title_slug)
-    # difficulty = question_meta['stat']['difficulty']['level']
-    target_dir = './questions/{}/'.format(title_slug)
-    if not path.exists(target_dir):
-        os.makedirs(target_dir)
-    else:
-        return True
-    filepath = '{}{}.{}'.format(target_dir, 'Solution', extension_mapping[lang])
-    if path.exists(filepath):
-        return True
-    return False
+    return './questions/{}/'.format(title_slug)
+
+
+def solution_exists(question_meta):
+    return path.exists(get_solution_dir(question_meta))
 
 
 def output_solution(question_meta, question, solution, lang):
-    title_slug = question_meta['stat']['question__title_slug']
-    target_dir = './questions/{}/'.format(title_slug)
+    target_dir = get_solution_dir(question_meta)
+    if not path.exists(target_dir):
+        os.makedirs(target_dir)
     filepath = '{}{}.{}'.format(target_dir, 'Solution', extension_mapping[lang])
     opening, closing = comment_mapping[lang]
     with open(filepath, 'w') as ofile:
@@ -118,26 +121,51 @@ def output_solution(question_meta, question, solution, lang):
         ofile.write('\n\n')
         ofile.write(solution)
     return True
-    
+
+
+def output_newly_added_solutions(session, question_metas):
+    for question_meta in question_metas:    
+        if solution_exists(question_meta):
+            continue
+        question = get_question(session, question_meta)
+        solution, lang = get_solution(session, question_meta)
+        if solution is None:
+            continue
+        outputed = output_solution(question_meta, question, solution, lang)
+        title = question_meta['stat']['question__title']
+        if not outputed:
+            print('ignore:', title)
+        else:
+            print('output:', title)
+
+
+def output_solutions_table(question_metas):
+    for question_meta in sorted(question_metas, key=lambda a: int(a['stat']['frontend_question_id'])):
+        number = question_meta['stat']['frontend_question_id']
+        title = question_meta['stat']['question__title']
+        title_slug = question_meta['stat']['question__title_slug']
+        link = 'https://leetcode.com/problems/{}/'.format(title_slug)
+        difficulty = question_meta['difficulty']['level']
+        target_dir = get_solution_dir(question_meta)
+        if not solution_exists(question_meta):
+            continue
+        langs = []
+        for fp in os.listdir(target_dir):
+            ext = fp.split('.')[-1]
+            langs.append(lang_name_mapping[ext])
+        print('|{number}|[{title}]({link})|[{langs}]({relpath})|![{level}]({level_badge})|'.format(
+            number=number, title=title, link=link, langs=','.join(langs), relpath=target_dir, 
+            level=diff_mapping[difficulty][0], level_badge=diff_mapping[difficulty][1],
+        ))
 
 
 def main():
     with requests.Session() as session:
         session.headers.update({'Cookie': cookie})
         question_metas = get_question_meta(session)
-        for question_meta in question_metas:
-            if solution_exists(question_meta, 'python'):
-                continue
-            question = get_question(session, question_meta)
-            solution, lang = get_solution(session, question_meta)
-            if solution is None:
-                continue
-            outputed = output_solution(question_meta, question, solution, lang)
-            title = question_meta['stat']['question__title']
-            if not outputed:
-                print('ignore:', title)
-            else:
-                print('output:', title)
+        output_newly_added_solutions(session, question_metas)
+        output_solutions_table(question_metas)
+        
 
 
 
