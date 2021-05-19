@@ -441,6 +441,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |601|[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)|[SQL](./questions/human-traffic-of-stadium/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Java](./questions/can-place-flowers/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[Python](./questions/construct-string-from-binary-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[Python](./questions/find-duplicate-file-in-system/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Java](./questions/merge-two-binary-trees/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[SQL](./questions/not-boring-movies/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|[Python](./questions/task-scheduler/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
@@ -631,6 +632,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |1044|[Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)|[Python](./questions/longest-duplicate-substring/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Python](./questions/last-stone-weight/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Python](./questions/remove-all-adjacent-duplicates-in-string/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)|[Python](./questions/longest-string-chain/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1049|[Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)|[Python](./questions/last-stone-weight-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1055|[Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/)|[Python](./questions/shortest-way-to-form-string/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1057|[Campus Bikes](https://leetcode.com/problems/campus-bikes/)|[Python](./questions/campus-bikes/)|![Medium](https://img.shields.io/badge/-Medium-orange)|

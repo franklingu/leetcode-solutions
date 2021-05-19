@@ -124,6 +124,7 @@ def output_solution(question_meta, question, solution, lang):
 
 
 def output_newly_added_solutions(session, question_metas):
+    print('The newly generated solutions table\n\n\n\n\n')
     for question_meta in question_metas:    
         if solution_exists(question_meta):
             continue
