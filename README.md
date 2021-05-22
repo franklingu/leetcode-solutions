@@ -571,17 +571,17 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)|[Python](./questions/groups-of-special-equivalent-strings/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[Python](./questions/all-possible-full-binary-trees/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[Python](./questions/maximum-frequency-stack/)|![Hard](https://img.shields.io/badge/-Hard-red)|
-|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[](./questions/monotonic-array/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[Python](./questions/monotonic-array/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[Python](./questions/increasing-order-search-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|900|[RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[](./questions/rle-iterator/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|900|[RLE Iterator](https://leetcode.com/problems/rle-iterator/)|[Python](./questions/rle-iterator/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)|[Python](./questions/online-stock-span/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Python](./questions/fruit-into-baskets/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
-|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[](./questions/sort-array-by-parity/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Python](./questions/sort-array-by-parity/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)|[Python](./questions/sum-of-subarray-minimums/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
-|908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[](./questions/smallest-range-i/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[](./questions/x-of-a-kind-in-a-deck-of-cards/)|![Easy](https://img.shields.io/badge/-Easy-green)|
-|915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[](./questions/partition-array-into-disjoint-intervals/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
-|916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[](./questions/word-subsets/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Python](./questions/smallest-range-i/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[Python](./questions/x-of-a-kind-in-a-deck-of-cards/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|915|[Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)|[Python](./questions/partition-array-into-disjoint-intervals/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Python](./questions/word-subsets/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[Python](./questions/reverse-only-letters/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)|[Python](./questions/maximum-sum-circular-subarray/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Python](./questions/minimum-add-to-make-parentheses-valid/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
