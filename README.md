@@ -376,6 +376,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[Python](./questions/repeated-substring-pattern/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)|[Python](./questions/lfu-cache/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Java](./questions/hamming-distance/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Python](./questions/minimum-moves-to-equal-array-elements-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Python](./questions/island-perimeter/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/)|[Python](./questions/validate-ip-address/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[Python](./questions/number-complement/)|![Easy](https://img.shields.io/badge/-Easy-green)|
@@ -567,6 +568,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Python](./questions/spiral-matrix-iii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)|[Python](./questions/possible-bipartition/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[Python](./questions/fair-candy-swap/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[Python](./questions/find-and-replace-pattern/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[Python](./questions/surface-area-of-3d-shapes/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)|[Python](./questions/groups-of-special-equivalent-strings/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/)|[Python](./questions/all-possible-full-binary-trees/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
