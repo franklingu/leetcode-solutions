@@ -59,6 +59,8 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Python](./questions/rotate-image/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Python](./questions/group-anagrams/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](./questions/powx-n/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Python](./questions/n-queens/)|![Hard](https://img.shields.io/badge/-Hard-red)|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[Python](./questions/n-queens-ii/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java,Python](./questions/maximum-subarray/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java,Python](./questions/spiral-matrix/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)|[Java](./questions/jump-game/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
