@@ -41,3 +41,19 @@ class Solution:
                 else:
                     ss = max(ss, len(words[i]) * len(words[j]))
         return ss
+
+
+class Solution2:
+    def maxProduct(self, words: List[str]) -> int:
+        cache = dict()
+        for word in words:
+            mask = 0
+            for c in word:
+                mask |= 1 << ord(c)
+            cache[mask]= max(cache.get(mask,0), len(word)) 
+        max_pr = 0
+        for i in cache:
+            for j in cache:
+                if not i & j:
+                    max_pr = max(max_pr , cache[i]*cache[j])
+        return max_pr

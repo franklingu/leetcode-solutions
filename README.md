@@ -130,7 +130,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Python](./questions/binary-tree-maximum-path-sum/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./questions/valid-palindrome/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)|[Java,Python](./questions/word-ladder/)|![Hard](https://img.shields.io/badge/-Hard-red)|
-|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python](./questions/longest-consecutive-sequence/)|![Hard](https://img.shields.io/badge/-Hard-red)|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Python](./questions/longest-consecutive-sequence/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|[Java](./questions/sum-root-to-leaf-numbers/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Python](./questions/surrounded-regions/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Python](./questions/palindrome-partitioning/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
@@ -297,7 +297,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[Python](./questions/reconstruct-itinerary/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[Python](./questions/increasing-triplet-subsequence/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[Python](./questions/house-robber-iii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
-|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./questions/counting-bits/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./questions/counting-bits/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Python](./questions/longest-substring-with-at-most-k-distinct-characters/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Python](./questions/flatten-nested-list-iterator/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[Python](./questions/power-of-four/)|![Easy](https://img.shields.io/badge/-Easy-green)|
@@ -683,6 +683,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |1663|[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|[Python](./questions/smallest-string-with-a-given-numeric-value/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1675|[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[Python](./questions/minimize-deviation-in-array/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Python](./questions/max-number-of-k-sum-pairs/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Python](./questions/partitioning-into-minimum-number-of-deci-binary-numbers/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Python](./questions/determine-if-string-halves-are-alike/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python](./questions/swapping-nodes-in-a-linked-list/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 
