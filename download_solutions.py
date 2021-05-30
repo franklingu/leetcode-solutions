@@ -4,6 +4,7 @@
 import os
 from os import path
 import re
+from enum import Enum
 
 import requests
 from bs4 import BeautifulSoup
@@ -37,6 +38,13 @@ diff_mapping = {
     2: ['Medium', 'https://img.shields.io/badge/-Medium-orange'],
     3: ['Hard', 'https://img.shields.io/badge/-Hard-red'],
 }
+
+
+class ParseReadmeState(Enum):
+    Normal = 1
+    Delete = 2
+
+
 cookie = ''
 
 
@@ -124,7 +132,6 @@ def output_solution(question_meta, question, solution, lang):
 
 
 def output_newly_added_solutions(session, question_metas):
-    print('The newly generated solutions table\n\n\n\n\n')
     for question_meta in question_metas:    
         if solution_exists(question_meta):
             continue
@@ -141,6 +148,8 @@ def output_newly_added_solutions(session, question_metas):
 
 
 def output_solutions_table(question_metas):
+    print('Generate new table')
+    lines = []
     for question_meta in sorted(question_metas, key=lambda a: int(a['stat']['frontend_question_id'])):
         number = question_meta['stat']['frontend_question_id']
         title = question_meta['stat']['question__title']
@@ -154,10 +163,35 @@ def output_solutions_table(question_metas):
         for fp in os.listdir(target_dir):
             ext = fp.split('.')[-1]
             langs.append(lang_name_mapping[ext])
-        print('|{number}|[{title}]({link})|[{langs}]({relpath})|![{level}]({level_badge})|'.format(
+        line = '|{number}|[{title}]({link})|[{langs}]({relpath})|![{level}]({level_badge})|\n'.format(
             number=number, title=title, link=link, langs=','.join(langs), relpath=target_dir, 
             level=diff_mapping[difficulty][0], level_badge=diff_mapping[difficulty][1],
-        ))
+        )
+        lines.append(line)
+    content_lines = []
+    with open('./README.md', 'r') as ifile:
+        state = ParseReadmeState.Normal
+        for line in ifile:
+            new_state = None
+            if line.strip() == '### Contents':
+                new_state = ParseReadmeState.Delete
+            elif line.strip() == '### Features':
+                new_state = ParseReadmeState.Normal
+            prev_state = state
+            if new_state is None:
+                pass
+            else:
+                state = new_state
+            if state == ParseReadmeState.Delete:
+                if state != prev_state:
+                    content_lines.append('### Contents\n\n| # | Title | Solution | Difficulty |\n|---| ----- | -------- | ---------- |\n')
+                    content_lines.extend(lines)
+                    content_lines.append('\n')
+            elif state == ParseReadmeState.Normal:
+                content_lines.append(line)
+    with open('./README.md', 'w') as ofile:
+        for line in content_lines:
+            ofile.write(line)
 
 
 def main():
