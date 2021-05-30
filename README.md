@@ -163,6 +163,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[Python](./questions/one-edit-distance/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java,Python](./questions/find-peak-element/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Python](./questions/missing-ranges/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Python](./questions/maximum-gap/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[Java,Python](./questions/compare-version-numbers/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Python](./questions/fraction-to-recurring-decimal/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](./questions/two-sum-ii-input-array-is-sorted/)|![Easy](https://img.shields.io/badge/-Easy-green)|
@@ -684,6 +685,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |1675|[Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[Python](./questions/minimize-deviation-in-array/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[Python](./questions/max-number-of-k-sum-pairs/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[Python](./questions/partitioning-into-minimum-number-of-deci-binary-numbers/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[Python](./questions/maximum-erasure-value/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Python](./questions/determine-if-string-halves-are-alike/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |1721|[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[Python](./questions/swapping-nodes-in-a-linked-list/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 
