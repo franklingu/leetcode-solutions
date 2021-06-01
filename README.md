@@ -46,6 +46,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](./questions/find-first-and-last-position-of-element-in-sorted-array/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java,Python](./questions/search-insert-position/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./questions/valid-sudoku/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Python](./questions/sudoku-solver/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./questions/count-and-say/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java,Python](./questions/combination-sum/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Python](./questions/combination-sum-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
@@ -103,6 +104,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Python](./questions/binary-tree-inorder-traversal/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Python](./questions/unique-binary-search-trees-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Python](./questions/unique-binary-search-trees/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[Python](./questions/interleaving-string/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Java](./questions/validate-binary-search-tree/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Java](./questions/same-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Java](./questions/symmetric-tree/)|![Easy](https://img.shields.io/badge/-Easy-green)|
@@ -653,6 +655,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Python](./questions/remove-all-adjacent-duplicates-in-string-ii/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|[Python](./questions/check-if-it-is-a-straight-line/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Python](./questions/minimum-remove-to-make-valid-parentheses/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Python](./questions/search-suggestions-system/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1277|[Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)|[Python](./questions/count-square-submatrices-with-all-ones/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)|[Python](./questions/find-the-smallest-divisor-given-a-threshold/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1286|[Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/)|[Python](./questions/iterator-for-combination/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
