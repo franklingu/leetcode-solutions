@@ -1,3 +1,4 @@
 cssselect
 lxml
 requests
+beautifulsoup4
