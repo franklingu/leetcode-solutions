@@ -402,6 +402,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/)|[Python](./questions/increasing-subsequences/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)|[Python](./questions/construct-the-rectangle/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Python](./questions/target-sum/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
+|495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[Python](./questions/teemo-attacking/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Python](./questions/next-greater-element-i/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Python](./questions/diagonal-traverse/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[Python](./questions/keyboard-row/)|![Easy](https://img.shields.io/badge/-Easy-green)|
@@ -734,6 +735,7 @@ LeetCode is a very good website to sharpen your programming/problem-solving skil
 |1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)|[Python](./questions/the-kth-factor-of-n/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1510|[Stone Game IV](https://leetcode.com/problems/stone-game-iv/)|[Python](./questions/stone-game-iv/)|![Hard](https://img.shields.io/badge/-Hard-red)|
 |1539|[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[Python](./questions/kth-missing-positive-number/)|![Easy](https://img.shields.io/badge/-Easy-green)|
+|1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[Python](./questions/make-the-string-great/)|![Easy](https://img.shields.io/badge/-Easy-green)|
 |1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[Python](./questions/minimum-operations-to-make-array-equal/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)|[Python](./questions/minimum-time-to-make-rope-colorful/)|![Medium](https://img.shields.io/badge/-Medium-orange)|
 |1629|[Slowest Key](https://leetcode.com/problems/slowest-key/)|[Python](./questions/slowest-key/)|![Easy](https://img.shields.io/badge/-Easy-green)|
