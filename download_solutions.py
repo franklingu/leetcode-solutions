@@ -16,6 +16,7 @@ extension_mapping = {
     'python3': 'py',
     'java': 'java',
     'sql': 'sql',
+    'mysql': 'sql',
     'shell': 'sh',
 }
 lang_name_mapping = {
@@ -23,6 +24,7 @@ lang_name_mapping = {
     'py': 'Python',
     'java': 'Java',
     'sql': 'SQL',
+    'mysql': 'SQL',
     'sh': 'Shell',
 }
 comment_mapping = {
@@ -31,6 +33,7 @@ comment_mapping = {
     'python3': ['"""', '"""'],
     'java': ['/*', '*/'],
     'sql': ['/*', '*/'],
+    'mysql': ['/*', '*/'],
     'shell': [": '", "'"],
 }
 diff_mapping = {
@@ -46,7 +49,6 @@ class ParseReadmeState(Enum):
 
 
 cookie = ''
-
 
 def get_question_meta(session):
     res = session.get('https://leetcode.com/api/problems/all/')
@@ -70,16 +72,15 @@ def get_question(session, question_meta):
 
 def get_solution(session, question_meta):
     res = session.post('https://leetcode.com/graphql', json={
-        "operationName": "Submissions",
+        "query": "\n    query submissionList($offset: Int!, $limit: Int!, $lastKey: String, $questionSlug: String!, $lang: Int, $status: Int) {\n  questionSubmissionList(\n    offset: $offset\n    limit: $limit\n    lastKey: $lastKey\n    questionSlug: $questionSlug\n    lang: $lang\n    status: $status\n  ) {\n    lastKey\n    hasNext\n    submissions {\n      id\n      title\n      titleSlug\n      status\n      statusDisplay\n      lang\n      langName\n      runtime\n      timestamp\n      url\n      isPending\n      memory\n      hasNotes\n    }\n  }\n}\n    ",
         "variables": {
+            "questionSlug": question_meta['stat']['question__title_slug'],
             "offset": 0,
             "limit": 20,
             "lastKey": None,
-            "questionSlug": question_meta['stat']['question__title_slug']
-        },
-        "query": "query Submissions($offset: Int!, $limit: Int!, $lastKey: String, $questionSlug: String!) {\n  submissionList(offset: $offset, limit: $limit, lastKey: $lastKey, questionSlug: $questionSlug) {\n    lastKey\n    hasNext\n    submissions {\n      id\n      statusDisplay\n      lang\n      runtime\n      timestamp\n      url\n      isPending\n      memory\n      __typename\n    }\n    __typename\n  }\n}\n"
+        }
     })
-    submissions = res.json()['data']['submissionList']['submissions']
+    submissions = res.json()['data']['questionSubmissionList']['submissions']
     selected = None
     lang = None
     for submission in submissions:
@@ -89,20 +90,16 @@ def get_solution(session, question_meta):
             selected = submission
             break
     if selected is None:
+        print('no AC solution found: ', question_meta['stat']['question__title'])
         return None
-    res = session.get('https://leetcode.com{}'.format(selected['url']))
-    code_line = ''
-    for line in res.text.split('\n'):
-        if 'submissionCode:' in line:
-            code_line = line
-            break
-    match = re.search("submissionCode: '(.+)'", code_line)
-    if match is None:
-        print('cannot find solution: ', question_meta['stat']['question__title'])
-        return None, None
-    code_line = match.group(1)
-    code_line = code_line.encode('utf-8').decode('unicode-escape')
-    return code_line, lang
+    res = session.post('https://leetcode.com/graphql', json={
+        "query": "\n    query submissionDetails($submissionId: Int!) {\n  submissionDetails(submissionId: $submissionId) {\n    runtime\n    runtimeDisplay\n    runtimePercentile\n    runtimeDistribution\n    memory\n    memoryDisplay\n    memoryPercentile\n    memoryDistribution\n    code\n    timestamp\n    statusCode\n    user {\n      username\n      profile {\n        realName\n        userAvatar\n      }\n    }\n    lang {\n      name\n      verboseName\n    }\n    question {\n      questionId\n    }\n    notes\n    topicTags {\n      tagId\n      slug\n      name\n    }\n    runtimeError\n    compileError\n    lastTestcase\n  }\n}\n    ",
+        "variables": {
+            "submissionId": selected['id'],
+        },
+    })
+    submission_details = res.json()['data']['submissionDetails']
+    return submission_details['code'], lang
 
 
 def get_solution_dir(question_meta):
